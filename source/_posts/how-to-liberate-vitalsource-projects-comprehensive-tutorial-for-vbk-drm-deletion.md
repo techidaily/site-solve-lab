@@ -1,7 +1,7 @@
 ---
 title: "How to Liberate VitalSource Projects: Comprehensive Tutorial for VBK DRM Deletion"
-date: 2024-08-20 14:22:28
-updated: 2024-08-21 11:14:40
+date: 2024-08-20T09:44:45.214Z
+updated: 2024-08-21T09:44:45.214Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b667ceffd517edd2d97f1e6e4.png
@@ -92,6 +92,11 @@ As my own opinion, the final most important reason that urges me to use a vbk dr
 
 ![print limit of vitalsource textbook](https://www.epubor.com/images/uppic/print-limit-of-vitalsource-textbook.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### Method 1: Remove Vitalsource DRM with Python Script
 
 This tool is only for those readers who are familiar with Python and computers. If not, please skip this part.
@@ -128,6 +133,10 @@ Once finished the commanding you will soon get your VitalSource eText book drm r
 
 Note: This method was first provided and share here: [Vitalsource to PDF reddit](https://www.reddit.com/r/Piracy/comments/7hxjgz/cracking%5Fvitalsource%5Fformat%5Fvbk%5Fdrm/). 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Method 2: Remove VBK DRM with Vitalsource Converter Pro
 
 When searching on the Internet to find an easy-to-use tool to help us remove DRM from .vbk files, you will soon find this [ebook-converter Vitalsource Converter Pro](https://www.ebook-converter.com/vitalsource-drm-removal.htm).
@@ -140,10 +149,16 @@ When I start the software, I'm requested to input the vitalsource account email 
 
 ![ebook-converter vitalsource converter pro introduction](https://www.epubor.com/images/uppic/use-ebook-converter-vitalsource-converter-pro.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 It's preparing to download the vitalsource vbk files to pdf. Then click on "Download" button, it will begin to download all pages and save them in an entire PDF or ePub. 
 
 ![drm removed from vbk](https://www.epubor.com/images/uppic/vbk-drm-removed-and-pdf-saved.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 Once converted well it says "Do you want to open ebook file". I like this design.
 
 I just choose 2 books for testing, then I found the average speed of the converting the PDF is 5 pages/minute, ePub is much more slowly (will not so correct but just my own conclusion, depends on the Internet accessing speed, and books size). 
@@ -152,6 +167,9 @@ Here I need to tips you that the demo version will add watermarks into all pages
 
 ![ebook-converter cut converted vitalsource pages out](https://www.epubor.com/images/uppic/bad-point-of-ebook-converter-vitalsource-drm-removal.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Remove VBK DRM with Epubor Vitalsource Downloader
 
 This tool [Epubor Vitalsource Downloader](https://tools.techidaily.com/epubor/products/) introduced here was developed by Epubor team in April 2018\. At first the new released version 1.0 does the same processing which keeps the original eBooks formats (if the original eBook file format is ePub, the output will be ePub; if it's a PDF the output format will be worPDF). But soon a new version updated since nearly 90% of customers sent letters to the support team that they want to print the vitalsource text books and wish to get all the books as PDF format. So you will find that from version 1.2 the software supported output is PDF only (but no changes to the original books' contents). I guess you may be one of them who just wants to use a vitalsource drm ripper to print vitalsource eBooks, right?
@@ -174,6 +192,9 @@ Another thing I need to let you know that the free trial version of this softwar
 
 ![Epubor Vitalsource VBK DRM Removal](https://www.epubor.com/images/uppic/epbuor-vitalsource-vbk-drm-removal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 I choose the same 2 books to test, the converting speed of PDF format text book is 10-15 pages per minute (from the new version 1.0.5, the speed is improved much up to 30 pages per minute), and the ePub to PDF will be a little slowly that about 3-5 pages per minute. 
 
 Once the conversion finishes, a window will pop up which shows you the pdf file. 
@@ -204,6 +225,12 @@ A: As far as I know, there doesn't exist any any ebook converter capable of dire
 
 ![edit vitalsource pdf text book](https://www.epubor.com/images/uppic/edit-vitalsource-pdf.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion: Just choose one tool to achieve your goals
 
 These 3 tools I all tried, but here I won't recommend you to try one by one because it's a waste of time and in fact there is no need to do like so. Of course if you have much interest in them, do as what you want, that's also great.
@@ -236,6 +263,10 @@ Updated 2/18/2019: Epubor Vitalsource Downloader is not available for downloadin
 
 ![author](http://www.epubor.com/images/uppic/author-dan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 [Angel Dan](http://www.epubor.com/mailto:epubor.muzhi1989@gmail.com) has covered software online marketing for more than 10 years. She joined Epubor since 2013, covering content writing, affiliate marketing, global brand expansion, video marketing, and business development.
 
 SHARING IS GREAT!

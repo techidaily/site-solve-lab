@@ -1,7 +1,7 @@
 ---
 title: "Customize Your Reading Experience: Easy Guide to Altering eBook Manager Calibre's Icon Theme"
-date: 2024-08-19 17:18:19
-updated: 2024-08-21 10:51:45
+date: 2024-08-20T09:44:45.380Z
+updated: 2024-08-21T09:44:45.380Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea34aa4ab5faa41249fabd55a.jpg
@@ -105,3 +105,7 @@ Leave a comment
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->

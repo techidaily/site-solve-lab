@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Tweaking ePub Metadata in iBooks on Mac OS X Mavericks"
-date: 2024-08-18 16:28:53
-updated: 2024-08-21 10:28:48
+date: 2024-08-20T09:44:44.892Z
+updated: 2024-08-21T09:44:44.892Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea338695faa58de9221c96a80.jpg
@@ -39,6 +39,9 @@ Sad story, feels like we are using a lite edition of iBooks, isn't it?
 
 The reason that iBooks enables people to edit the meta date is pretty obvious-- they don't want people to use iBooks to read downloaded books, but only the books purchased from iBooks Store.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### Edit metadata with Calibre for Mac
 
 Although editing metadata with iBooks is impossible, it doesn't mean this is the end of the story. With another software, Calibre for Mac, we can edit book's metadata then load the book into iBooks for Mac app.
@@ -47,16 +50,25 @@ First we import the book into Calibre.
 
 ![ibooks without cover](http://www.epubor.com/images/ibooks-without-cover.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 From the image above we can see that the cover of the book _A DANCE WITH DRAGONS_ is missing, which is a pretty typical case where we need to edit the metadata to add cover.![edit-metadata-in-calibre](http://www.epubor.com/images/edit-metadata-in-calibre.png)
 
 Right click on the book title, choose "Edit metadata", then "Edit metadata individually".
 
 ![](http://www.epubor.com/images/edit-metadata-for-ibooks-for-mac.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 In this window we can customize almost all the important metadata. In this case I need to add a cover to the book, so I click "Browse" in "Change cover" area. If you want to make it simple, just directly click "Download cover", and Calibre will search the cover from internet and add it for you.
 
 ![cover-added-by-calibre](http://www.epubor.com/images/cover-added-by-calibre.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 After finding the cover image, click "OK" to confirm. Then you can see the cover in Calibre now.
 
 But job has not been finished yet, in fact the cover is only added in Calibre's library. To display the book's cover in iBooks for Mac, we need to add the cover image into the book file.
@@ -69,6 +81,9 @@ So the last step is to convert the book to EPUB, even this file is already an EP
 
 ![edit-metadata-in-ibooks-for-mac-mavericks](http://www.epubor.com/images/edit-metadata-in-ibooks-for-mac-mavericks.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 Find the converted file in Calibre's library and drag it into iBooks for Mac. Now we can see the book displayed in iBooks for Mac with the gorgeous cover.
 
 Using the same method we can also add or modify other metadata like title, author & publisher, genre, etc. On Mac OS X Mavericks even the iBooks for Mac enable us to do so.
@@ -81,6 +96,10 @@ Related Readings
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!

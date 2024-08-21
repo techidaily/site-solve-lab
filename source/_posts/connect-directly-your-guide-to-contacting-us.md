@@ -1,7 +1,7 @@
 ---
 title: "Connect Directly: Your Guide to Contacting Us"
-date: 2024-08-20 23:17:20
-updated: 2024-08-21 10:39:27
+date: 2024-08-20T09:44:45.082Z
+updated: 2024-08-21T09:44:45.082Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d91c4abed318157a8b08fbc6c0ecb400619fc39e3e859b7ef1ec6d0563fa86aa.jpg
@@ -53,10 +53,16 @@ Any questions about our products or services, we are here to help you.
 
 5\. Directly [contact epubor marketing manager](http://www.epubor.com/mailto: epubor.muzhi1989@gmail.com) to talk about the business cooperation, multi-user license, affiliates program, etc..
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Find Your Order:
 
 You can use our [Registration code retrieval wizard](https://tools.techidaily.com/epubor/products/) to find your order information, and ask our server to re-send you a license if you lost the registration information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Mailing Address:
 
  No.1103, Building 67, Guangguzuobiaocheng, Guanshan Road Wuhan, Hubei
@@ -89,6 +95,9 @@ Another important reason is the efficiency. One customer service specialist can 
 * CONNECT WITH US
 * [![facebook](http://www.epubor.com/images/fb.png)](https://www.facebook.com/eBookConverter)[![twitter](http://www.epubor.com/images/tw.png)](https://twitter.com/eBook%5FConverter)[![linkedin](http://www.epubor.com/images/Linkedin-Logo.png)](https://www.linkedin.com/company/epubor/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 * Subscribe
 * Submit
 
@@ -104,6 +113,9 @@ Copyright © 2011-2024 www.epubor.com. All rights reserved.
 
 ![mcafee badge](http://www.epubor.com/images/mcafee-secure.png)![norton badge](http://www.epubor.com/images/norton-icon.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"

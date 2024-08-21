@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Uninstalling Titles in the Apple iBooks Application
-date: 2024-08-19 13:47:19
-updated: 2024-08-21 11:50:22
+date: 2024-08-20T09:44:44.773Z
+updated: 2024-08-21T09:44:44.773Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/07aa9db678660a97880964bc167fdc56576717cff44f3bc475a8394ebc44ab3d.jpg
@@ -33,14 +33,23 @@ Step1: Launch iBooks app on iPhone/iPad.
 
 ![launch ibooks](http://www.epubor.com/images/uppic/lauch-iBooks.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Step 2: Tap **_My Books_** at the bottom left corner of your iBooks. You will see all your books under the _**All Books**_ tab. 
 
 ![tab my books](http://www.epubor.com/images/uppic/mybook-at-ibooks.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
  Step 3: Tab **_Select_** at the top right corner, then click the book you want to delete from the iBook. Now tap **_Delete_** at the top left corner, it will pop a _**Delete**_ in red color, just tap it, your selected books will be deleted.
 
 ![delete books from ibooks](http://www.epubor.com/images/uppic/delete-books-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 #### How to delete the collections from iBooks?
 
 iBooks now features Collections, which let you group books or PDFs into any category you wish. There are some Collections (Books, audiobooks, samples and PDFs) by default on iBooks already. And these Collections can’t be removed or edited. For the collections you added, you are allowed to delete them if you want.
@@ -63,12 +72,18 @@ Step 4: Tap the **_Delete_**, it will pop up a new window with three options: De
 
 The non-purchased books are deleted from iBooks completely. You will not see the cover or title at your iBooks. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Delete Purchased Books in iBooks
 
 If you try to delete the purchased books in iBooks, you can also follow the above method, but when you press on Delete, it will only allow you to **_Remove Download_** like the following picture. You will still see this book is still in your iBooks with a Cloud icon at the top right corner with a download arrow. According to Apple’s policy, you are not allowed to delete the books in cloud and you are able to redownload the purchase books anytime you want by pressing the book cover.
 
 ![remove download](http://www.epubor.com/images/uppic/remove-download.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 #### How to hide iCloud books in iBooks?
 
 Some people will feel uncomfortable when the iBooks has been deleted but still displayed in iBooks. By the restriction of Apple’s policy, it is not easy for us to delete them completely from iBooks. Here is another alternative way to solve your problem—hiding them.
@@ -108,10 +123,16 @@ Step3: Check the book title you want to delete, then click on Delete.your iBooks
 
 ![delete ibooks](http://www.epubor.com/images/uppic/delete-books-from-ibook-completely.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It will pop up a new window ask if you want to delete this book, just click on **_Yes_**. The book will be deleted completely from iBooks, no matter at local or in cloud.
 
 ![click yes](http://www.epubor.com/images/uppic/click-yes-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 These are some mothods I want to share with you guys about deleting books from iBooks. If you have any better resolution, you are welcome to share them in the comments.
 
 #### You will also like
@@ -123,6 +144,9 @@ These are some mothods I want to share with you guys about deleting books from i
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
