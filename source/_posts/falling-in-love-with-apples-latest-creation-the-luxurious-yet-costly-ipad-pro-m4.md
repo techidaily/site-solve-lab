@@ -1,7 +1,7 @@
 ---
 title: Falling in Love with Apple's Latest Creation - The Luxurious Yet Costly iPad Pro (M4)
-date: 2024-08-28 11:51:19
-updated: 2024-08-29 12:28:56
+date: 2024-08-30T10:48:01.831Z
+updated: 2024-08-31T10:48:01.831Z
 tags:
   - product-reviews
 categories:
@@ -100,6 +100,9 @@ The new iPad Pro is impossibly thin, featuring outrageous performance with the A
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Screen Is the Thing
 
 ![a hand holding the Apple iPad Pro (M4)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/a-hand-holding-the-apple-ipad-pro-m4.jpg) 
@@ -128,6 +131,9 @@ Tyler Hayes / How-To Geek
 
 ![a close up of the front camera on the Apple iPad Pro (M4)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/a-close-up-of-the-front-camera-on-the-apple-ipad-pro-m4.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  One minor detail I did notice and feel was the new placement of the camera used for FaceTime and other video calls. It’s now top and (mostly) centered when using the iPad in landscape orientation.
@@ -136,6 +142,9 @@ Tyler Hayes / How-To Geek
 
  There are very few, if any, missteps with the Pro. The speakers are great, especially for the tablet's physical size. It's even hard to get mad at the removal of the second rear camera. Did you even know there were two cameras on Pro iPads? This new hardware is peak iPad.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  You Can Only Pick Two: Weight, Battery, and Size
 
 ![side view of the Apple iPad Pro (M4) in magic keyboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/side-view-of-the-apple-ipad-pro-m4-in-magic-keyboard.jpg) 
@@ -166,10 +175,16 @@ Tyler Hayes / How-To Geek
 
  I’m less enthusiastic about the Apple Pencil Pro simply because I don’t handwrite notes and can’t draw. The haptics work well when you squeeze it. I appreciate how it's advanced, but I just have a lot less use for it than the keyboard. If you’re in the same boat and waffling on the decision, then skip it for now and reconsider it later, if new circumstances arise.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy the Apple iPad Pro (M4)?
 
 ![Apple iPad Pro (M4) laying on a bed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/apple-ipad-pro-m4-laying-on-a-bed.JPG) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Typically, products that use less material have a lower cost. In technology, it’s often the opposite. Smaller, thinner, and lighter devices are more expensive because tiny components are harder to make.
@@ -186,6 +201,9 @@ Tyler Hayes / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-ec.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 #####  iPad Pro (M4) 11-inch
 
 8/ 10 
@@ -210,3 +228,63 @@ The new iPad Pro is impossibly thin, featuring outrageous performance with the A
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-newest-qanda-arsenal-for-captivating-listeners/"><u>[New] Newest Q&A Arsenal for Captivating Listeners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expertise-unlocked-in-depth-tutorial-for-apples-screen-recording-techniques/"><u>[Updated] Expertise Unlocked  In-Depth Tutorial for Apple's Screen Recording Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expert-recommendations-free-chat-apps-with-screen-viewing/"><u>[Updated] In 2024, Expert Recommendations  Free Chat Apps with Screen Viewing</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-e-books-mastery-discover-top-reading-apps-and-strategies-for-your-samsung-galaxy-tab/"><u>1. E-Books Mastery: Discover Top Reading Apps and Strategies for Your Samsung Galaxy Tab</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-effortless-document-conversion-how-to-transform-files-into-pdf-format/"><u>1. Effortless Document Conversion: How to Transform Files Into PDF Format</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-quick-and-convenient-video-edits-in-windows-11-photos/"><u>2024 Approved  Quick & Convenient Video Edits in Windows 11 Photos</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-art-of-monitoring-youtube-discussions/"><u>2024 Approved  The Art of Monitoring YouTube Discussions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-powerpoints-voice-command-capabilities-step-by-step/"><u>2024 Approved  Unveiling PowerPoint's Voice Command Capabilities Step by Step</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/a-step-by-step-guide-updating-your-kindle-fires-built-in-thesaurus-and-dictionary/"><u>A Step-by-Step Guide: Updating Your Kindle Fire's Built-In Thesaurus and Dictionary</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/achieve-marketing-excellence-the-top-10-steps-to-mastering-smm/"><u>Achieve Marketing Excellence  The Top 10 Steps to Mastering SMM</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/affordable-and-accessible-the-definitive-guide-to-9-budget-friendly-editors/"><u>Affordable & Accessible  The Definitive Guide to 9 Budget-Friendly Editors</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-7-mac-pdf-tools-comprehensive-readers-and-editors/"><u>Best 7 Mac PDF Tools: Comprehensive Readers & Editors</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-epub-converters-compatible-with-macos-from-mojave-to-ventura-user-reviews/"><u>Best ePub Converters Compatible with macOS From Mojave to Ventura - User Reviews</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/breaking-personal-barriers-in-yt-content-creation/"><u>Breaking Personal Barriers in YT Content Creation</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/bypassing-copyright-protection-a-guide-to-accessing-amazons-drm-encrypted-media/"><u>Bypassing Copyright Protection: A Guide to Accessing Amazon's DRM-Encrypted Media</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-tecno-phantom-v-flip-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Tecno Phantom V Flip to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/choosing-the-right-audiobook-experience-audible-or-kobo/"><u>Choosing the Right Audiobook Experience: Audible or Kobo?</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/complete-guide-how-to-safely-extract-drm-protection-from-ebook-formats-like-epub-pdf-and-azw/"><u>Complete Guide: How to Safely Extract DRM Protection From eBook Formats Like EPUB, PDF & AZW</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/comprehensive-data-protection-guidelines/"><u>Comprehensive Data Protection Guidelines</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/comprehensive-insights-into-googles-nexus-7-tablet-for-tech-enthusiasts/"><u>Comprehensive Insights Into Google's Nexus 7 Tablet for Tech Enthusiasts</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/comprehensive-security-covers-explored-and-compared/"><u>Comprehensive Security Covers Explored and Compared</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/comprehensive-user-guide-step-by-step-instructions-for-success/"><u>Comprehensive User Guide: Step-by-Step Instructions for Success</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/connect-directly-your-guide-to-contacting-us/"><u>Connect Directly: Your Guide to Contacting Us</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/converting-and-transferring-encrypted-itunes-video-content-for-use-on-kindle-firestick-and-kobo-devices/"><u>Converting and Transferring Encrypted iTunes Video Content for Use on Kindle Firestick & Kobo Devices</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/defining-thresholds-the-essentials-of-establishing-limits/"><u>Defining Thresholds: The Essentials of Establishing Limits</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/download-the-ultimate-kindle-to-pdf-transformer-free-version/"><u>Download the Ultimate Kindle-to-PDF Transformer: Free Version</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/drm-free-ebook-conversion-techniques-a-step-by-step-guide/"><u>DRM-Free Ebook Conversion Techniques: A Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/easily-convert-your-kindle-fire-to-android-mode-no-rooting-needed/"><u>Easily Convert Your Kindle Fire to Android Mode - No Rooting Needed!</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/easy-guide-sharing-your-kobo-ebook-library-with-friends/"><u>Easy Guide: Sharing Your Kobo eBook Library With Friends</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/effective-methods-for-retrieving-your-revoked-or-lost-license/"><u>Effective Methods for Retrieving Your Revoked or Lost License</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/efficient-email-solutions-streamline-your-communication-with-modern-mail-systems/"><u>Efficient Email Solutions - Streamline Your Communication with Modern Mail Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-defense-with-customizable-firewall-options-in-context-menu/"><u>Elevate Windows Defense with Customizable Firewall Options in Context Menu</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-tools-for-perfect-images-for-2024/"><u>Essential Tools for Perfect Images for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/expert-insights-on-the-newly-released-201th-kindle-oasis-a-comprehensive-evaluation/"><u>Expert Insights on The Newly Released 201^Th Kindle Oasis - A Comprehensive Evaluation</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/exploring-reasons-you-might-disfavor-using-a-kindle-e-reader/"><u>Exploring Reasons You Might Disfavor Using a Kindle E-Reader</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/exploring-the-mystery-of-unknown-digital-rights-management-techniques/"><u>Exploring the Mystery of Unknown Digital Rights Management Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-k11x-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo K11x to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/how-to-liberate-vitalsource-projects-comprehensive-tutorial-for-vbk-drm-deletion/"><u>How to Liberate VitalSource Projects: Comprehensive Tutorial for VBK DRM Deletion</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/how-to-transform-your-ebooks-format-from-protected-drm-enabled-epub-to-versatile-pdf/"><u>How to Transform Your eBook's Format: From Protected DRM-Enabled EPUB to Versatile PDF</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/implementing-soft-cessation-of-sounds-using-audacity-procedures/"><u>Implementing Soft Cessation of Sounds Using Audacity Procedures</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-rotational-rigging-solutions/"><u>In 2024, Full-Rotational Rigging Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-motorola-moto-g84-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Motorola Moto G84 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-15-pro-max-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 15 Pro Max Smoothly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-every-shots-hue-the-essential-11-tutorials-on-color-adjustment/"><u>In 2024, Perfecting Every Shot's Hue  The Essential 11 Tutorials on Color Adjustment</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/mastering-the-art-of-reading-acsm-ebooks-via-kobo-an-ultimate-guide/"><u>Mastering the Art of Reading ACSM Ebooks via Kobo: An Ultimate Guide</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/maximize-your-income-successful-affiliate-marketing-strategies-and-earning-potential/"><u>Maximize Your Income: Successful Affiliate Marketing Strategies and Earning Potential</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-your-creativity-top-free-vob-video-editors-for-2024/"><u>New Unleash Your Creativity Top Free VOB Video Editors for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/iples-of-crafting-compelling-youtube-introduction-vids/"><u>Principles of Crafting Compelling YouTube Introduction Vids</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/quick-and-simple-guide-how-to-change-your-kobo-ebooks-into-pdf-format/"><u>Quick & Simple Guide: How To Change Your Kobo eBooks Into PDF Format</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/seamless-migration-how-to-effortlessly-move-your-kindle-books-across-devices-and-platforms/"><u>Seamless Migration: How to Effortlessly Move Your Kindle Books Across Devices & Platforms</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/unlock-your-library-steps-for-bypassing-drm-protection-on-various-ebook-file-types-including-pdfs-and-azw-files/"><u>Unlock Your Library: Steps for Bypassing DRM Protection on Various eBook File Types Including PDFs and AZW Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiled-top-10-superior-gopro-housing-options-for-2024/"><u>Unveiled  Top 10 Superior GoPro Housing Options for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unveiling-the-mysteries-of-ig-metrics-an-essential-toolkit-for-marketers/"><u>Unveiling the Mysteries of IG Metrics  An Essential Toolkit for Marketers</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/updated-guide-enable-google-play-store-on-your-kindle-fire-tablet-2019-edition/"><u>Updated Guide: Enable Google Play Store on Your Kindle Fire Tablet - 2019 Edition</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-visual-harmony-integrating-dynamic-beats-into-your-filmic-expressions/"><u>Updated Visual Harmony Integrating Dynamic Beats Into Your Filmic Expressions</u></a></li>
+</ul></div>
