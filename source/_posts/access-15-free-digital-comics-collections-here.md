@@ -1,14 +1,32 @@
 ---
 title: Access 15 Free Digital Comics Collections Here!
-date: 2024-08-25T20:03:11.272Z
-updated: 2024-08-26T20:03:11.272Z
+date: 2024-09-05T11:00:47.097Z
+updated: 2024-09-06T11:00:47.097Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da8079de3619058fd0f089920.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Access 15 Free Digital Comics Collections Here!
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 15 Free CBZ Reader Download
 
 Posted by [Grace Sue](https://plus.google.com/107909268153223267573) on 4/15/2020 3:28:42 PM.
@@ -19,14 +37,32 @@ Posted by [Grace Sue](https://plus.google.com/107909268153223267573) on 4/15/202
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 “CBZ” is the abbreviation of “Comic Book Zip”. It is a format of comic book archived file. CBZ is utilized to package sequential image files. When you open CBZ files with appropriate software, then you can continuously read the comic book by dragging or scrolling mouse or using the keyboard. Following are 15 free **CBZ Reader**, you can use them to view CBZ comic books.
 
 ![CBZ Reader Comic](http://www.epubor.com/images/uppic/CBZ-Reader-Comic.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1 Calibre 
 
 ![Calibre CBZ](http://www.epubor.com/images/uppic/calibre_cbz.jpg)  Calibre works on Windows, OS X, Linux platforms. It is completely free and open-source eBook reader. Also, it has powerful functions such as convert ePub, Mobi, PDF, etc. And as a CBZ reader, it definitely would not let you down. But before you use it to read CBZ comics, you should set up some options.  
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **How to read:** Open Calibre----Click on "Preferences" icon---Click "Behavior"----Check "CBZ"----Click "Apply"  
   
 According to the above operating order, after setting right the options, you can choose the CBZ book to view.  
@@ -35,17 +71,41 @@ According to the above operating order, after setting right the options, you can
   
 **OS:** ![Windows PC](http://www.epubor.com/images/uppic/Windows-PC.png)![Mac OS](http://www.epubor.com/images/uppic/Mac-OS.png)![Linux](http://www.epubor.com/images/uppic/linux.png)
   
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
 2 CDisplay EX 
 
 ![CDisplay EX](http://www.epubor.com/images/uppic/CDisplay-EX.jpg)  CDisplay EX works on Windows 64 bits and Windows 32 bits platforms. Free to use and small volume. It is known for most comic supporters as a comic reader. It supports not only CBZ comic format but also PBG, JPEG, BMP, and GIF. It's qualified for its job. The simple and easy operation could please you.No redundant things in it and you can concentrate on your comic or manga world.  
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **How to read:** Open CDisplay EX. Drag and Drop the CBZ file into its interface.  
   
 [Download](http://www.cdisplayex.com/downloads)  
   
 **OS:** ![Windows PC](http://www.epubor.com/images/uppic/Windows-PC.png)
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
 3 Comical 
 
@@ -57,6 +117,12 @@ According to the above operating order, after setting right the options, you can
   
 **OS:** ![Windows PC](http://www.epubor.com/images/uppic/Windows-PC.png)![Mac OS](http://www.epubor.com/images/uppic/Mac-OS.png)
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
 4 GonVisor 
 
@@ -68,6 +134,12 @@ According to the above operating order, after setting right the options, you can
   
 **OS:** ![Windows PC](http://www.epubor.com/images/uppic/Windows-PC.png)![Mac OS](http://www.epubor.com/images/uppic/Mac-OS.png)![Linux](http://www.epubor.com/images/uppic/linux.png)
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
 5 ComicRack 
 
@@ -77,6 +149,12 @@ According to the above operating order, after setting right the options, you can
   
 **OS:** ![Windows PC](http://www.epubor.com/images/uppic/Windows-PC.png)![android logo](http://www.epubor.com/images/uppic/android-logo.png)
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
 6 Xylasoft Comic Seer 
 
@@ -93,6 +171,12 @@ According to the above operating order, after setting right the options, you can
 
 ![Sumatra PDF CBZ Reader](http://www.epubor.com/images/uppic/Sumatra-PDF-cbz-reader.jpg)  Sumatra PDF is available for Windows 10, Windows 8, Windows 7, Vista, XP platforms. From its name, you can recognize that it's not a dedicated comic reader. But it also can be used to read CBZ files. There are also other formats it can support such as CBR, PDF, ePub, Mobi, etc. Installing it just takes a few seconds. Simple interface. After you view the file it will show your recent reading history in "Frequently Read" column.  
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **How to read:** Drag and drop the CBZ file into the interface. Or you can click "Open a document" icon to open the CBZ file from your local folder.  
   
   
@@ -100,6 +184,12 @@ According to the above operating order, after setting right the options, you can
   
 **OS:** ![Windows PC](http://www.epubor.com/images/uppic/Windows-PC.png)
   
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
 8 STDU Viewer 
 
@@ -116,6 +206,12 @@ According to the above operating order, after setting right the options, you can
 
 ![Icecream Ebook Reader](http://www.epubor.com/images/uppic/Icecream-Ebook-Reader.jpg)  Icecream Ebook Reader applies for Windows 10, Windows 8, Windows 7, Vista, XP, Windows 2003, Windows 2000, etc. platforms. It supports EPUB, FB2, MOBI, PDF, CBR and CBZ formats. Although its supporting formats are not that much, Icecream Ebook Reader can basically meet your reading needs. This application also features the ability to turn pages, add bookmarks and notes, translate text, search your library and much more. The succinct interface will attract your eyes. But its frame size of this software can't be adjusted freely.  
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **How to read:** Drag and drop CBZ comic books to the blank space. Click the file from the bookshelf and read it.  
   
 [Download](http://icecreamapps.com/Download-Ebook-Reader/)  
@@ -144,6 +240,12 @@ According to the above operating order, after setting right the options, you can
   
 **OS:** ![Windows PC](http://www.epubor.com/images/uppic/Windows-PC.png)![Linux](http://www.epubor.com/images/uppic/linux.png)
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   
 12 MangaMeeya 
 
@@ -160,6 +262,12 @@ According to the above operating order, after setting right the options, you can
 
 ![Honeyview](http://www.epubor.com/images/uppic/Honeyview.jpg)  Honeyview applies for Windows platform. It supports image formats such as BMP, JPG, GIF and archive formats such as ZIP/ZIPX/CBZ, RAR/CBR. It supports many languages and its small size and fast action will be great. You even don't need to use the mouse or keyboard by setting the slideshow function. The CBZ comic book will automatically turn the page. You can select a image from your CBZ file.  
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **How to read:** Drag and drop your file into it. Then sliding the mouse wheel to turn pages.  
   
 [Download](http://www.honeyview.org/spec/)  
@@ -250,9 +358,6 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
 <li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-youtube-image-saver-compilation/"><u>[New] In 2024, Free YouTube Image Saver Compilation</u></a></li>

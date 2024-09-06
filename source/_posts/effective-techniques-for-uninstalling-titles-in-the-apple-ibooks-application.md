@@ -1,12 +1,18 @@
 ---
 title: Effective Techniques for Uninstalling Titles in the Apple iBooks Application
-date: 2024-08-25T20:03:18.740Z
-updated: 2024-08-26T20:03:18.740Z
+date: 2024-09-05T11:00:47.233Z
+updated: 2024-09-06T11:00:47.233Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/07aa9db678660a97880964bc167fdc56576717cff44f3bc475a8394ebc44ab3d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Effective Techniques for Uninstalling Titles in the Apple iBooks Application
 
 ## How to Delete Books from iBooks
@@ -19,6 +25,12 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 1
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 As iOS system is more and more popular among young people, many eBook lovers choose to purchase and read eBooks on iBooks. With a iPhone/iPad, you can carry your whole eBook library in your pocket. How convenient it is! It allows you to use every fragmented time to read and study! It is very common that your iPhone/iPad space is full, it's time for you to consider about deleting books from iBooks. How to keep fit for your increasing iBook library will be a challenge. I will share some methods with you guys about how to delete books from iBooks on iPhone/iPad/Mac.
 
 ### Delete Books from Apple Books (Mac catalina) 
@@ -33,23 +45,26 @@ Step1: Launch iBooks app on iPhone/iPad.
 
 ![launch ibooks](http://www.epubor.com/images/uppic/lauch-iBooks.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Step 2: Tap **_My Books_** at the bottom left corner of your iBooks. You will see all your books under the _**All Books**_ tab. 
 
 ![tab my books](http://www.epubor.com/images/uppic/mybook-at-ibooks.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Step 3: Tab **_Select_** at the top right corner, then click the book you want to delete from the iBook. Now tap **_Delete_** at the top left corner, it will pop a _**Delete**_ in red color, just tap it, your selected books will be deleted.
 
 ![delete books from ibooks](http://www.epubor.com/images/uppic/delete-books-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 #### How to delete the collections from iBooks?
 
 iBooks now features Collections, which let you group books or PDFs into any category you wish. There are some Collections (Books, audiobooks, samples and PDFs) by default on iBooks already. And these Collections can’t be removed or edited. For the collections you added, you are allowed to delete them if you want.
@@ -58,6 +73,18 @@ Step 1: Press the collections drop-download list at the central top, you will se
 
 ![edit ibooks collections](http://www.epubor.com/images/uppic/edit-ibook-collections.png)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2: Press **_Edit_** right next to Collections, you will see collections you are allowed to edit with a red icon before them.
 
 ![delete ibook collections](http://www.epubor.com/images/uppic/delete-collections.png)
@@ -66,15 +93,18 @@ Step 3: Tap the red icon, the **_Delete_** button will pop up at the right side.
 
 ![delete ibooks collections](http://www.epubor.com/images/uppic/delete-ibooks-collections1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Tap the **_Delete_**, it will pop up a new window with three options: Delete Collection and Content, Delete Collection only, and Cancel. If you select delete the collection only, the book will still in your iBooks at the Books collections. If you select **_Delete Collection and Content_,** your books will be deleted from iBooks. 
 
 ![delete collections](http://www.epubor.com/images/uppic/Delet-collections.png)
 
 The non-purchased books are deleted from iBooks completely. You will not see the cover or title at your iBooks. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Delete Purchased Books in iBooks
 
 If you try to delete the purchased books in iBooks, you can also follow the above method, but when you press on Delete, it will only allow you to **_Remove Download_** like the following picture. You will still see this book is still in your iBooks with a Cloud icon at the top right corner with a download arrow. According to Apple’s policy, you are not allowed to delete the books in cloud and you are able to redownload the purchase books anytime you want by pressing the book cover.
@@ -82,7 +112,10 @@ If you try to delete the purchased books in iBooks, you can also follow the abov
 ![remove download](http://www.epubor.com/images/uppic/remove-download.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #### How to hide iCloud books in iBooks?
 
@@ -94,6 +127,12 @@ Step 1: Tap **_All Books_**, you will find the option **_Hide iCloud Books_** at
 
 ![hide icloud books](http://www.epubor.com/images/uppic/hide-icloud-books1.png) ![hide icloud books](http://www.epubor.com/images/uppic/hide-icloud-books2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### How to delete books from purchased history?
 
 As we known that the book purchased through iBook store will stay in your purchase history for as long as they are available to download. Even if we have deleted the purchased books from iBooks bookshelf, the purchase history will still be there. This is really annoying some time. I will show you how to hide the purchase history.
@@ -124,14 +163,20 @@ Step3: Check the book title you want to delete, then click on Delete.your iBooks
 ![delete ibooks](http://www.epubor.com/images/uppic/delete-books-from-ibook-completely.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  It will pop up a new window ask if you want to delete this book, just click on **_Yes_**. The book will be deleted completely from iBooks, no matter at local or in cloud.
 
 ![click yes](http://www.epubor.com/images/uppic/click-yes-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 These are some mothods I want to share with you guys about deleting books from iBooks. If you have any better resolution, you are welcome to share them in the comments.
 
@@ -145,7 +190,16 @@ These are some mothods I want to share with you guys about deleting books from i
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
