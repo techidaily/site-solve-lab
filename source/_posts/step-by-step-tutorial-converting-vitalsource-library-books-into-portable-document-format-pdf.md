@@ -1,32 +1,48 @@
 ---
 title: "Step-by-Step Tutorial: Converting VitalSource Library Books Into Portable Document Format (PDF)"
-date: 2024-09-05T11:00:47.367Z
-updated: 2024-09-06T11:00:47.367Z
+date: 2024-09-10T09:30:23.016Z
+updated: 2024-09-11T09:30:23.016Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/2387718b8db3694a51e607975c051578189e680f7a1c2f8254d28fdbdf702989.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Step-by-Step Tutorial: Converting VitalSource Library Books Into Portable Document Format (PDF)
+
+
+
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+## Step-by-Step Tutorial: Converting VitalSource Library Books Into Portable Document Format (PDF)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Convert eBooks from VitalSource Bookshelf to PDF
 
 Posted by [Sisi Liu](https://www.facebook.com/sisi.liu.737) on 9/7/2018 11:16:51 AM.
@@ -37,22 +53,38 @@ Posted by [Sisi Liu](https://www.facebook.com/sisi.liu.737) on 9/7/2018 11:16:51
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 As the leading provider of online textbooks and course materials, VitalSource attracts millions of users to rent or buy eTextbooks. Like other eBook online retailers, VitalSource BookShelf sells DRMed eTextbooks in a proprietary format. The textbooks downloaded via VitalSource Bookshelf app are saved in **vbk files** which can only be read on its own VitalSource Bookshelf software. We find this unacceptable. If you pay for an eBook, it is supposed to be yours to view on any device you own. It was tricky and arduous to have our developers figure out how to bypass the restriction. For what it’s worth, we’ve made it. Epubor is proud to announce the release of a new DRM removal tool which is dedicated to **VitalSource DRM Removal** \- [Epubor VitalSource Downloader](https://tools.techidaily.com/epubor/products/). Hence, in this article, i'll introduce the easiest way to remove VitalSource DRM and **convert VitalSource Bookshelf vbk to pdf** with this fascinating tool.
 
 ![epubor-vitalsource-downloader-logo.png](http://www.epubor.com/images/uppic/epubor-vitalsource-downloader-logo.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [Epubor VitalSource Downloader](https://tools.techidaily.com/epubor/products/) is a tool to download VitalSource eTextbooks **without Bookshelf app installed**. It removes the DRM restriction from your purchased VitalSource books and helps you get DRM free Epub or PDF eTextbooks (depends on the original book type delivered by VitalSource). If the book distributed in VitalSource is a PDF file, you’ll get a DRM free PDF file after downloading it via Epubor VitalSource Downloader. Then you can read the PDF file with any compatible PDF reader, share the book with your friends, and print the entire PDF file at a time from the print menu. By contrast, VitalSource Bookshelf only lets you print limited pages (mostly 1-10 pages) at a time.
 
 #### Here are the steps of converting VitalSource VBK to PDF:
@@ -67,12 +99,26 @@ Updated 2/18/2019: Epubor Vitalsource Downloader is not available for downloadin
 
 ![interface-of-VitalSource-Downloader](http://www.epubor.com/images/uppic/interface-of-VitalSource-Downloader.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 **Step 3.** Click on the cover of the book you’d like to download, and it starts to download the book automatically and displays the download progress of the book. After downloading the book, it will be saved in PDF file on your computer (on the premise that the original book your purchased from VitalSource is a PDF file). The VitalSource DRM removal and VBK to PDF conversion are processed by the tool simultaneously.
 
 ![downloading-ebooks-via-VitalSource-Downloader](http://www.epubor.com/images/uppic/downloading-ebooks-via-VitalSource-Downloader.png)
@@ -81,20 +127,8 @@ A small window indicating “download file succeeded” will pop up when the boo
 
 ![download-file-succeeded](http://www.epubor.com/images/uppic/download-file-succeeded.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![downloads- location-vitalsource](http://www.epubor.com/images/uppic/downloads- location-vitalsource.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The method above is the easiest and direct way to convert the proprietary VBK format to a PDF. Other more complicated and sophisticated methods are illustrated in the article [Convert VBK to PDF on Mac for free](https://tools.techidaily.com/epubor/products/) and [Convert VBK to PDF on Win for free](https://tools.techidaily.com/epubor/products/). In a nutshell, you need to get a free "print-to-PDF" program like doPDF you can print the file, then select doPDF 9 from the printer list. The selection to be printed will be saved as a PDF in the location you specify. Most programs that read VBK's will only let you print 1-10 pages at a time, so you will end up with lots of small PDFs. You also should use [Epubor PDF & Merger & Splitter](https://tools.techidaily.com/epubor/pdf-splitter-merger/) to merge all the PDFs into one book.
 
 Inarguably, [Epubor VitalSource Downloader](https://tools.techidaily.com/epubor/products/) is the most effortless and cost-effective tool to convert your eTextbooks from VitalSource Bookshelf to PDF.
@@ -115,6 +149,20 @@ Suggested reading:
 * [Best Kindle KFX DRM Removals in 2018 - Calibre vs. Epubor Ultimate](https://tools.techidaily.com/epubor/products/)
 
 ![author](http://www.epubor.com/images/uppic/Sisi.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 [Sisi Liu](https://www.facebook.com/sisi.liu.737) Sisi is a newbie who joined Epubor in November 2017\. She's a bookworm her whole life and has taken great interest in eBooks recently. She learns professional knowledge about ebooks in Epubor and loves to share her know-how to all the ebook lovers!
 

@@ -1,15 +1,43 @@
 ---
 title: Professionelle Audiodaten Aus DVDs in .wav Oder MP3 Exportieren - Gratis-Mac-Software Zum Extrahieren
-date: 2024-09-05T11:00:46.090Z
-updated: 2024-09-06T11:00:46.090Z
+date: 2024-09-10T09:30:21.846Z
+updated: 2024-09-11T09:30:21.846Z
 categories:
   - macxdvd
 thumbnail: https://thmb.techidaily.com/8a38e69f6bb6d23740b2b061d8fc927f2b1d57e63f504706f437480fcde8cc73.jpg
 ---
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Professionelle Audiodaten Aus DVDs in .wav Oder MP3 Exportieren - Gratis-Mac-Software Zum Extrahieren
 
 [![macx DVD Ripper pro icon](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/icon12.png)](https://tools.techidaily.com/macxdvd/products/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [Handbuch](https://tools.techidaily.com/macxdvd/products/)
@@ -20,6 +48,34 @@ thumbnail: https://thmb.techidaily.com/8a38e69f6bb6d23740b2b061d8fc927f2b1d57e63
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/icon7.png) [Startseite](https://tools.techidaily.com/macxdvd/products/) \> [Anleitungen](https://tools.techidaily.com/macxdvd/products/) \> DVD-Audio-Ripper
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ## Kostenloser DVD-Audio-Ripper - Audio von DVD auf Mac extrahieren
 
 
@@ -28,49 +84,61 @@ _Zusammenfassung: Lernen Sie, wie man kostenlos Audio von DVD mit bester Audiowi
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/icon6.png) By [Bella Brown](https://www.linkedin.com/in/bella-brown-920145104/) ｜Updated am18\.  Mai 2021
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-fa.jpg)](https://www.facebook.com/sharer/sharer.php?u=https://www.macxdvd.com/tutorial-de/dvd-audio-extractor-download-deutsch.htm)
 * [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-tw.jpg)](https://twitter.com/intent/tweet?url=https://www.macxdvd.com/tutorial-de/dvd-audio-extractor-download-deutsch.htm&text=)
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-* [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/tutorial-de/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/tutorial-de/dvd-audio-extractor-download-deutsch.htm)
-* [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/tutorial-de/dvd-audio-extractor-download-deutsch.htm&title=&summary=&source=)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+
+
+
+* [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-email.jpg)](https://www.macxdvd.com/tutorial-de/mailto:info@example.com?&subject=&body=https://www.macxdvd.com/tutorial-de/dvd-audio-extractor-download-deutsch.htm)
+* [![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/share-in.jpg)](https://www.linkedin.com/shareArticle?mini=true&url=https://www.macxdvd.com/tutorial-de/dvd-audio-extractor-download-deutsch.htm&title=&summary=&source=)
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
 Möchten Sie die DVD-Hintergrundmusik auf Ihren Musik-Playern, wie MP3-Player, MP4-Player, Handy, iPad, iPod, iPhone, etc. abspielen? Vielleicht wird Ihnen vorgeschlagen, DVD-Audio mit dem VLC Media Player in MP3 zu rippen, aber die Wahrheit ist, dass der ganze Vorgang viel komplizierter ist, als es scheint. Möchten Sie eine einfachere Lösung ausprobieren? In diesem Artikel wird ein professioneller und dennoch kostenloser DVD-Audio-Ripper für Mac vorgestellt, der Ihnen hilft, Audio von DVDs problemlos zu rippen, so dass Sie die DVD-Hintergrundmusik auf Ihrem Gadget genießen können, wo immer Sie sind.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Inhaltsverzeichnis
 
 * [Teil 1: Bester kostenloser DVD-Audio-Ripper der für Mac empfohlen wird](https://tools.techidaily.com/macxdvd/products/) ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/icon4.png)
 * [Teil 2: Audio von DVD mit Open Source extrahieren - DVD Audio Extractor](https://tools.techidaily.com/macxdvd/products/)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * [Teil 3: Kostenloses Rippen von DVD-Audio mit VLC Mac](https://tools.techidaily.com/macxdvd/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Teil 1: Bester kostenloser DVD-Audio-Ripper der für Mac empfohlen wird
 
 [**MacX DVD Ripper Mac Free Edition**](https://tools.techidaily.com/macxdvd/products/) ist ein hervorragendes Tool, das Audiospuren aus neuen DVD-Filmen rippen und DVD-Audio in MP3-Dateien für die Wiedergabe rippen kann. Mit diesem kostenlosen Mac-DVD-Audio-Ripper ist es ganz einfach, den Ton von einer DVD zu rippen. In den folgenden Abschnitten wird Ihnen Schritt für Schritt gezeigt, wie man Audio von DVD extrahiert und DVD-Audio in MP3-Dateien rippt.
@@ -89,12 +157,26 @@ Wählen Sie im Bereich des Ausgabeformats das Zielformat "zu Musik". Es können 
 
 ![DVD-Audio in MP3-Musik auf Mac rippen - kostenlos](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/mdrmfe-0320-audio.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 **Schritt 3\. Ausgabeordner bestimmen.**
 
 Geben Sie den Ausgabeordner auf Ihrem Computer an, um die Ausgabedateien zu speichern. Klicken Sie auf "Durchsuchen", um den Pfad zu wählen, in dem Sie die Ausgabedateien speichern möchten.
@@ -109,25 +191,41 @@ Dieser Mac DVD Ripper ist nicht nur eine DVD zu MP3 Musik Freeware, sondern auch
 
 [Download for Mac](https://tools.techidaily.com/macxdvd/products/) [Download for PC](https://tools.techidaily.com/macxdvd/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Teil 2: Audio von DVD mit Open Source extrahieren - DVD Audio Extractor
 
 Als Ergänzung empfehlen wir Ihnen auch einen anderen Open Source DVD-Audio-Ripper auszuprobieren - DVD Audio Extractor, der ein weithin bekanntes Tool ist, um Audio von DVD-Discs, Blu-Ray-Discs und DVD-Audio-Discs kostenlos zu extrahieren und sie als MP3-, OGG-, Wave- oder FLAC-Dateiformate zu speichern. Jetzt funktioniert es nahtlos mit Mac OS X 10.9 Mavericks. Für Benutzer von Yosemite, El Capitan und macOS Sierra ist es immer noch ratsam, mit der ersten DVD-Konverter-Freeware Audio von DVD auf Mac zu rippen.
 
 ![DVD audio extractor freeware](https://www.macxdvd.com/tutorial-de/../mac-dvd-video-converter-how-to/article-image/audio-extractor-29.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Nachdem Sie eine DVD mit dem kostenlosen DVD-Audio-Ripper für Mac in MP3, AAC usw. gerippt haben, wird Ihnen vorgeschlagen, Musik auf das iPhone iPad zu übertragen, um sie unterwegs zu hören. [**MacX MediaTrans**](https://tools.techidaily.com/macxdvd/products/), eine Alternative zu iTunes, hilft Ihnen, Musik vom Mac auf das iPhone zu übertragen, ohne iTunes zu beanspruchen. Es bietet auch die Möglichkeit, Musikdateien auf dem iPhone zu verwalten, z. B. Musik-Detailinformationen zu bearbeiten, Lieder stapelweise zu löschen, Klingeltöne zu erstellen usw.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## Teil 3: Kostenloses Rippen von DVD-Audio mit VLC Mac
 
@@ -157,22 +255,10 @@ Weitere Artikel & Tipps:
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [So kann man DVD in MP4 umwandeln unter Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Wie ändert man die DVD-Region auf dem Mac](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic5.jpg)
@@ -181,51 +267,83 @@ Weitere Artikel & Tipps:
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic4.jpg)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 [DVDFab Tutorial - So rippen Sie geschützte DVDs einfach mit DVDFab HD Decrypter](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Handbremse: Bester DVD-Entschlüsseler zum Rippen verschlüsselter DVDs?](https://tools.techidaily.com/macxdvd/products/) 
 
 ![](https://www.macxdvd.com/tutorial-de/../image-style/new-seo/pic2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [So spielen Sie Region 1-DVDs in Großbritannien oder anderen Regionen ab](https://tools.techidaily.com/macxdvd/products/) 
 
 
 
 ![Digiarty Software](https://www.macxdvd.com/tutorial-de/../icon/logo.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 MacXDVD Software ist ein führender Anbieter von Multimedia-Software und bietet innovative Multimedia-Lösungen für Anwender auf der ganzen Welt.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Produkte
 
 * [MacX DVD Ripper Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX Video Converter Pro](https://tools.techidaily.com/macxdvd/products/)
 * [MacX MediaTrans](https://tools.techidaily.com/macxdvd/products/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ### Support
 

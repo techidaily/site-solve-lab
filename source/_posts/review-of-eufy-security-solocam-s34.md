@@ -1,7 +1,7 @@
 ---
 title: Review of Eufy Security Solocam S34
-date: 2024-09-05T11:00:45.634Z
-updated: 2024-09-06T11:00:45.634Z
+date: 2024-09-10T09:30:21.391Z
+updated: 2024-09-11T09:30:21.391Z
 tags:
   - product-reviews
 categories:
@@ -23,12 +23,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 #####  Eufy Security SoloCam S340
 
 8/ 10 
@@ -50,6 +58,20 @@ Capture every event that occurs around your home in ultra-clear 3K resolution. S
 [$200 at Amazon](https://www.amazon.com/eufy-Security-Wireless-Surveillance-Compatible/dp/B0CCYP6KFM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003599&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Feufy-security-solocam-s340-review%2F&asc%5Fcampaign=Authority) [$200 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Feufy-security-solocam-s340-outdoor-wireless-3k-security-camera-with-dual-lens-white%2F6547265.p%3FskuId%3D6547265) [$200 at Eufy](https://www.eufy.com/products/t81701w1?variant=42628415815866) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Price and Availability
 
@@ -97,12 +119,20 @@ Expand
 
 ![The Eufy Security SoloCam S340 with mounting plate, screws, and other accessories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/eufy-security-solocam-s340-with-mounting-plate-screws-usb-c-cable-extension-cable-and-solar-panel-in-front-of-boxjpg_53495509526_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  The Eufy S340 is designed to be mounted on walls and ceilings and is equipped with a 360-degree rotating camera body. You’ll also be able to tilt up and down 70 degrees. While the mechanized rotation worked well in my tests, there was a slight delay when using manual controls.
@@ -113,15 +143,43 @@ Jerome Thomas / How-To Geek
 
 ![The rear of the Eufy Security SoloCam S340 showing the USB port cover and Sync button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/rear-of-the-eufy-security-solocam-s340-showing-the-usb-port-cover-and-sync-buttonjpg_53495809134_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 Jerome Thomas / How-To Geek
 
  The provided mount easily connects to the top of the camera. It didn’t take me long to get everything out of the box and set up. After connecting the S340 to my 2.4GHz (no 5GHz option) and updating it through the Eufy Security app, I was ready to start using it.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ##  Eufy Cameras Doing What Eufy Cameras Do Best
 
@@ -139,40 +197,64 @@ Close
 
 ![Color night vision on the Eufy Security SoloCam S340](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/eufy-s340-color-night-vision-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Infrared night vision on the Eufy Security SoloCam S340](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/eufy-s340-infrared-night-vision-1.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  The AI-Powered Motion Detection We’ve All Been Waiting For
 
 ![The Eufy Security SoloCam S340 connected to a smartphone via Eufy app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/eufy-security-solocam-s340-connected-to-a-smartphone-via-eufy-appjpg_53495657203_o.jpg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
  The S340 has incredible motion detection capabilities, a vital element of any home security system (check out [our list of all the best ones](https://youtube-videos.techidaily.com/increase-your-videos-impact-essential-keyword-analysis-resources/)) Considering how good the AI tracking was on the [Eufy S350 I recently reviewed](https://fox-access.techidaily.com/mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide/), I was expecting the same kind of performance from the S340\. I was not disappointed. With AI tracking enabled (it’s off by default), the S340 didn’t let _anything_ out of its sights. Rotating and tilting quickly and quietly, I was able to zoom in on numerous dog-walkers and passing cars without any kind of holdup.
 
  You’ll be able to use the Eufy app to create Activity Zones. Anything that falls outside of these virtual boundaries won’t register as a motion event, so you won’t receive any notifications. You’re also able to adjust what types of motion the S340 responds to (people, cars, and miscellaneous), and how sensitive motion detection is overall.
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ##  It Does the Sound Stuff Too
 
  You’ll be able to use the Eufy app, or a compatible assistant app (like Alexa or Google Home) to access the S340’s two-way audio features.
@@ -181,26 +263,42 @@ Close
 
  Human voices come through crisp and clear too, for both the person standing near the S340, and the person using the Eufy or assistant app to communicate.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Using the Eufy Security App
 
 ![Live view dashboard of the Eufy Security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/eufy-security-app-live-view-1.jpeg) 
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ![Motion detection settings in the Eufy Security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/eufy-security-app-motion-detection-settings-1.jpeg) 
 
 ![Power management settings in the Eufy Security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/eufy-security-app-power-management-settings-1.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Solar panel dashboard in the Eufy Security app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/eufy-security-app-solar-panel-dashboard-1.jpeg) 
 
 Close 
@@ -211,26 +309,34 @@ Close
 
  Compatible with both Alexa and Google Assistant, I was able to get camera live views and use two-way audio through the Alexa app and on my Echo Show 5\. I also successfully created an Alexa Routine to turn on my desk lamp whenever motion was detected.
 
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ##  Should You Buy the Eufy Security SoloCam S340?
 
  I was truly blown away by the performance and reliability of the [Eufy Security SoloCam S340](https://www.amazon.com/eufy-Security-Wireless-Surveillance-Compatible/dp/B0CCYP6KFM?source=ps-sl-shoppingads-lpcontext&ref%5F=fplfs&psc=1&smid=A1U62USFOR8NN3&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003599&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Feufy-security-solocam-s340-review%2F&asc%5Fcampaign=Authority). If you can get past the steep upfront price, I highly recommend this incredible surveillance device. It delivers some of the best-looking footage I've ever seen from a Wi-Fi-connected outdoor camera (check out [our roundup of these](https://screen-video-capture.techidaily.com/new-in-2024-pixels-and-players-advanced-tactics-for-recording-gaming/)), and I still can't get over how responsive its AI-powered motion detection was. The app may take a little getting used to in the beginning, but rest assured, it's not impossible to navigate.
 
 ![The Eufy Security SoloCam S340](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/eufy-solocam-s340-render-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Eufy Security SoloCam S340
 
 8/ 10 

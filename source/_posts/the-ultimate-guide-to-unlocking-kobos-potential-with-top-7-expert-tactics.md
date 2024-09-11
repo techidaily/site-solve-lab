@@ -1,11 +1,25 @@
 ---
 title: The Ultimate Guide to Unlocking Kobo's Potential with Top 7 Expert Tactics
-date: 2024-09-05T11:00:48.208Z
-updated: 2024-09-06T11:00:48.208Z
+date: 2024-09-10T09:30:23.790Z
+updated: 2024-09-11T09:30:23.790Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/6a865e452463a91a0991eeba9d7367cf47a6e9f955045ec39458749fd03f02a9.jpg
 ---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
 
 ## The Ultimate Guide to Unlocking Kobo's Potential with Top 7 Expert Tactics
 
@@ -19,24 +33,40 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 12/3/2018 4:44:1
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ![kobo tips and tricks](http://www.epubor.com/images/uppic/kobo-tips-and-tricks.jpg)
 
 Except Kindle device, I guess there are also a plenty of Kobo users. As a Kobo fan, are you looking for new ways to make full use of your Kobo? Do you want to learn how to read Kindle books on Kobo? Have you ever thought about how to tell if a Kobo eBook has DRM before purchasing?
 
 Sometimes, I also concern these questions, so I searched online and found some useful and practical Kobo tips and tricks. I tried them on my own Kobo, it does help me do more with my Kobo. Here I want to share them with you. I guess once you learned tips and tricks for Kobo, you will be able to customize and make most use of all the functions including hidden tricks.  
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### How to read Kindle books on Kobo
 
 Imaging you find an interesting book which is only available on Amazon, thus you purchased it on Amazon and want to transfer it to your favorite Kobo eReader, but it didn't recognize it at all. Why I cannot read downloaded books on my favorite eReader? Actually, Amazon uses its own unique eBook formats which are not supported by Kobo. It's annoying for our Kobo fans, right? But don't worry, I have found an easy way to make Kindle books readable on Kobo.
@@ -56,30 +86,12 @@ As the image shows, it supports batch conversion and decryption. Only 4 simple s
 
 [How to read Kindle books on Kobo](https://tools.techidaily.com/epubor/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to add Kindle bookerly font to Kobo
 
 Last year, Kindle just released its new font called bookerly. This is a huge improvment on Kindle reading experience. It has solved the problem with text justification, kerning, drop caps, image positioning and more.But it's only supported by limited device. So how can we add Kindle bookerly font to Kobo?
 
 ![add kindle bookerly font to kobo](http://www.epubor.com/images/uppic/add-kindle-bookerly-font-to-kobo.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Download [Bookerly file](http://forum.xda-developers.com/attachment.php?attachmentid=3137426&d=1422419182)and unzip it
 2. Connect Kobo to computer with USB
 3. Open Kobo drive and create a new folder "fonts" (if none exists)
@@ -91,22 +103,64 @@ When you open a book on your Kobo, now you can see the new font via font menu. E
 
 [How to add Kindle bookerly font to Kobo](http://goodereader.com/blog/electronic-readers/how-to-install-the-kindle-bookerly-font-on-your-kobo) 
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### How to get free eBooks for Kobo
 
 Want to find free eBooks for your Kobo eReader or Kobo reading app? It's easy. For getting free books directly from Kobo website, first of all, please enter Kobo official website. Then input "free ebooks" in the search box on the home page and tap search icon to find free eBooks. Simply select the category you would like to and click "View all" to see all the free eBooks under selected category. If there are still some books need to be paid, please select "only free items" and click "Apply" button on the left side, then you can see all the showing books will be totally free.
 
 ![get free ebooks for kobo](http://www.epubor.com/images/uppic/find-free-ebooks-for-kobo-on-kobo-store.png)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 How about getting free eBooks for Kobo from other eBook stores? Except Kobo website, there are also many online eBook shops provide us free eBooks for Kobo, such as [Smashwords](http://www.smashwords.com/) and [Feedbooks](http://www.feedbooks.com/). For more details, please go through the guide below.
 
 [How to get free books for Kobo](https://tools.techidaily.com/epubor/products/)
 
+
+
+
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
 ### How to **request a Kobo price match**
 
 Kobo has provided us a eBook price match system, I guess many users may have not been aware of it. If you come from US, Canada, Australia, New Zealand, or the UK and purchased an eBook from Kobo, but later you found the same one on another website with lower price, you can ask Kobo to credit you the difference, plus 10% of your original purchase price.
@@ -129,18 +183,6 @@ Kobo will verify the competing offer and you may get reply within 3 business day
 
 [How to **request a Kobo price match**](http://goodereader.com/blog/e-book-news/did-you-know-that-kobo-price-matches-ebooks)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to tell if a Kobo book has DRM before purchasing it
 
 I guess many users may criticism DRMed books, as we cannot do anything we like on them. Though we paid for them, it seems they are not 100% owned by us. But luckily, not all the books from Kobo eBook store are DRM protected. Then, how can we get DRM free eBooks? According to my experience, the best way is to tell if a Kobo has DRM before purchasing it. 
@@ -166,6 +208,20 @@ It's easy to use. Just 4 simple steps. I guess everyone knows how to operate it.
 
 ![back up kobo books](http://www.epubor.com/images/uppic/transfer-kobo-books-to-computer.png)
 
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 For transmission between Kobo and Kindle, it will automatically help us remove DRM, then convert eBook to target supported formats. For transmission between 2 Kindle or Kobo eReaders with different account, the transferred files will also be decrypted automatically.
 
 [How to back up Kobo books to computer](https://tools.techidaily.com/epubor/products/) 
@@ -184,20 +240,36 @@ You may don't want to pay for an EPUB eBook and have borrowed it from public lib
 
 ![add public library content to kobo](http://www.epubor.com/images/uppic/add-public-library-content-to-kobo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-[How to add public library content to Kobo eReader](http://elibtronic.ca/content/20100624/adding-public-library-content-your-kobo-ebook-reader) 
+
+
+
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+
+
+
+[How to add public library content to Kobo eReader](http://elibtronic.ca/content/20100624/adding-public-library-content-your-kobo-ebook-reader) 
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
 ### More Kobo tips and tricks
 
 Except the tips mentioned above, there are also many other tricks for Kobo. Hope this can help you.
@@ -212,18 +284,6 @@ Trick 4 [**A simple trick to fix a buggy Kobo e-reader**](http://blog.the-ebook-
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
