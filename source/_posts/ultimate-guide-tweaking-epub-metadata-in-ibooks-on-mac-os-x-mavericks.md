@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Tweaking ePub Metadata in iBooks on Mac OS X Mavericks"
-date: 2024-09-10T09:30:23.087Z
-updated: 2024-09-11T09:30:23.087Z
+date: 2024-09-10T02:23:43.921Z
+updated: 2024-09-15T22:38:11.608Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea338695faa58de9221c96a80.jpg
@@ -9,43 +9,13 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 
 ## Ultimate Guide: Tweaking ePub Metadata in iBooks on Mac OS X Mavericks
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## How to Edit iBooks Meta Data under Mac OS X Mavericks
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 11/26/2018 2:42:13 PM.
 
 4.3 [(24 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Dated back to the WWDC 2013, when Apple announced iBooks would be an independent application in the OS X 10.9 Mavericks, all the iBooks lovers are exciting about the coming iBooks for Mac app. Finally the day came, but I heard much noise among the cheers. A lot of people think the iBooks for Mac sucks, because it doesn't allow people to edit the metadata.
 
@@ -59,37 +29,9 @@ When the iBooks was only a child-column in iTunes, we can right click on an item
 
 ![edit-ebook-meta-data-itunes](http://www.epubor.com/images/edit-ebook-meta-data-itunes.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 But with iBooks for Mac in Mavericks, you only get this when right clicking on a book.
 
 ![ibooks-for-mac-options](http://www.epubor.com/images/ibooks-for-mac-options.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 Sad story, feels like we are using a lite edition of iBooks, isn't it?
 
@@ -103,20 +45,6 @@ First we import the book into Calibre.
 
 ![ibooks without cover](http://www.epubor.com/images/ibooks-without-cover.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 From the image above we can see that the cover of the book _A DANCE WITH DRAGONS_ is missing, which is a pretty typical case where we need to edit the metadata to add cover.![edit-metadata-in-calibre](http://www.epubor.com/images/edit-metadata-in-calibre.png)
 
 Right click on the book title, choose "Edit metadata", then "Edit metadata individually".
@@ -127,20 +55,6 @@ In this window we can customize almost all the important metadata. In this case 
 
 ![cover-added-by-calibre](http://www.epubor.com/images/cover-added-by-calibre.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 After finding the cover image, click "OK" to confirm. Then you can see the cover in Calibre now.
 
 But job has not been finished yet, in fact the cover is only added in Calibre's library. To display the book's cover in iBooks for Mac, we need to add the cover image into the book file.
@@ -149,29 +63,29 @@ No matter that we are adding cover or modifying the names, **converting the book
 
 So the last step is to convert the book to EPUB, even this file is already an EPUB file.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Load the modified book into iBooks for Mac
 
 ![edit-metadata-in-ibooks-for-mac-mavericks](http://www.epubor.com/images/edit-metadata-in-ibooks-for-mac-mavericks.png)
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Find the converted file in Calibre's library and drag it into iBooks for Mac. Now we can see the book displayed in iBooks for Mac with the gorgeous cover.
 
@@ -192,8 +106,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 24 Comments
 
@@ -483,8 +395,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -494,43 +404,13 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube/"><u>[New] 2024 Approved  A Filmmaker's Guide  Seamless Editing & Uploading 360-Degree Footage for YouTube</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-critical-asmr-video-elements-to-note/"><u>[New] Critical ASMR Video Elements to Note</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-no-ads-creators-course-earnings-strategies-for-self-sustained-success/"><u>[New] The No-Ads Creator’s Course  Earnings Strategies for Self-Sustained Success</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-15-pioneering-online-education-websites-beyond-udemy/"><u>[Updated] In 2024, 15 Pioneering Online Education Websites Beyond Udemy</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-enhance-your-content-filmmaking-for-youtube-trailers-with-filmora/"><u>[Updated] In 2024, Enhance Your Content  Filmmaking for YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1-e-books-mastery-discover-top-reading-apps-and-strategies-for-your-samsung-galaxy-tab/"><u>1. E-Books Mastery: Discover Top Reading Apps and Strategies for Your Samsung Galaxy Tab</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1-easy-guide-transforming-your-ebooks-from-vitalsource-to-pdf-format/"><u>1. Easy Guide: Transforming Your eBooks From VitalSource to PDF Format</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1-effortless-document-conversion-how-to-transform-files-into-pdf-format/"><u>1. Effortless Document Conversion: How to Transform Files Into PDF Format</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-android-trick-changing-media-order-sequence/"><u>2024 Approved  Android Trick  Changing Media Order Sequence</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-future-fables-top-30-quotes-on-tomorrows-realities/"><u>2024 Approved  Future Fables  Top 30 Quotes on Tomorrow's Realities</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-slomo-capture-application-assessment-expert-opinions/"><u>2024 Approved  SloMo Capture Application Assessment - Expert Opinions</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-note-30-vip-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Note 30 VIP System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/a-step-by-step-guide-updating-your-kindle-fires-built-in-thesaurus-and-dictionary/"><u>A Step-by-Step Guide: Updating Your Kindle Fire's Built-In Thesaurus and Dictionary</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-prints-with-microsoft-smartscreen-security-feature/"><u>Activating Prints with Microsoft SmartScreen Security Feature</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/best-7-mac-pdf-tools-comprehensive-readers-and-editors/"><u>Best 7 Mac PDF Tools: Comprehensive Readers & Editors</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/best-epub-converters-compatible-with-macos-from-mojave-to-ventura-user-reviews/"><u>Best ePub Converters Compatible with macOS From Mojave to Ventura - User Reviews</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/bypassing-copyright-protection-a-guide-to-accessing-amazons-drm-encrypted-media/"><u>Bypassing Copyright Protection: A Guide to Accessing Amazon's DRM-Encrypted Media</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/choosing-the-right-audiobook-experience-audible-or-kobo/"><u>Choosing the Right Audiobook Experience: Audible or Kobo?</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/complete-guide-how-to-safely-extract-drm-protection-from-ebook-formats-like-epub-pdf-and-azw/"><u>Complete Guide: How to Safely Extract DRM Protection From eBook Formats Like EPUB, PDF & AZW</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/comprehensive-data-protection-guidelines/"><u>Comprehensive Data Protection Guidelines</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/comprehensive-insights-into-googles-nexus-7-tablet-for-tech-enthusiasts/"><u>Comprehensive Insights Into Google's Nexus 7 Tablet for Tech Enthusiasts</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/customize-your-reading-experience-easy-guide-to-altering-ebook-manager-calibres-icon-theme/"><u>Customize Your Reading Experience: Easy Guide to Altering eBook Manager Calibre's Icon Theme</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/discover-the-art-of-suspension-mastering-hanging-techniques/"><u>Discover the Art of Suspension: Mastering Hanging Techniques</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-nokia-c02-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Nokia C02 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/easy-steps-how-to-access-and-read-epub-documents-on-your-computer/"><u>Easy Steps: How To Access & Read EPUB Documents On Your Computer</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exclusive-iphone-filming-software-list/"><u>Exclusive iPhone Filming Software List</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-iphone-7-plus-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and iPhone 7 Plus without Apple Account</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/resolving-hidden-complications-in-copyright-protection-systems-drm-errors/"><u>Resolving Hidden Complications in Copyright Protection Systems (DRM Errors)</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/seamless-migration-how-to-effortlessly-move-your-kindle-books-across-devices-and-platforms/"><u>Seamless Migration: How to Effortlessly Move Your Kindle Books Across Devices & Platforms</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/step-by-step-guide-transforming-your-pdfs-into-comfortable-kindle-reads-by-converting-them-to-mobi/"><u>Step-by-Step Guide: Transforming Your PDFs Into Comfortable Kindle Reads by Converting Them to MOBI</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/turning-loss-into-gain-lessons-learned-from-defeat/"><u>Turning Loss Into Gain: Lessons Learned From Defeat</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/unlock-your-library-steps-for-bypassing-drm-protection-on-various-ebook-file-types-including-pdfs-and-azw-files/"><u>Unlock Your Library: Steps for Bypassing DRM Protection on Various eBook File Types Including PDFs and AZW Files</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/updated-guide-enable-google-play-store-on-your-kindle-fire-tablet-2019-edition/"><u>Updated Guide: Enable Google Play Store on Your Kindle Fire Tablet - 2019 Edition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-perfect-pacing-with-pitch-a-comprehensive-guide-to-adding-and-editing-timestamps-in-final-cut-pro-x-for-2024/"><u>Updated Perfect Pacing with Pitch A Comprehensive Guide to Adding and Editing Timestamps in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/using-calibre-a-step-by-step-guide-to-transferring-e-books-between-your-ereader-and-laptop/"><u>Using Calibre: A Step-by-Step Guide to Transferring E-Books Between Your eReader and Laptop</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-z-fold-5-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy Z Fold 5? Fixed | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-secrets-of-striking-highlight-image-creation-for-2024/"><u>[Updated] Unveiling the Secrets of Striking Highlight Image Creation for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-real-time-video-recording-tools-top-picks-for-capturing-live-streams-on-computers/"><u>Best Real-Time Video Recording Tools: Top Picks for Capturing Live Streams on Computers</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/comment-stabiliser-vos-clips-video-sur-plateformes-multiplateformes-windows-mac-android-iphone/"><u>Comment Stabiliser Vos Clips Video Sur Plateformes Multiplateformes (Windows, Mac, Android, iPhone)</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/dvd-vhsdvd/"><u>DVDバックアップ・リッピングソフトウェア推奨 - VHS、ビデオカメラからも容易にDVD化</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-poco-x6-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Poco X6 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-20-proplus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-13t-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from 13T.</u></a></li>
 </ul></div>
+
