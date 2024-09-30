@@ -1,7 +1,7 @@
 ---
 title: "Movavi Online: M4A, OGG 표준에 대한 무료 원탁 - 영구 변환기와 간소화"
-date: 2024-09-24T16:35:42.096Z
-updated: 2024-09-25T18:37:18.969Z
+date: 2024-09-23T17:37:10.185Z
+updated: 2024-09-30T17:06:07.091Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/0a4429b41076dffc8b778c6281e805f6a7937a0d2383fe5591ff482b234f870f.jpg
@@ -156,13 +156,6 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -172,13 +165,6 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
@@ -195,6 +181,13 @@ Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -292,13 +285,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -307,13 +293,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -334,6 +313,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -346,27 +332,20 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -375,13 +354,6 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -410,6 +382,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -473,6 +452,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Désactiver les services d'arrière-plan Windows
@@ -504,13 +490,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
@@ -533,6 +512,13 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -558,6 +544,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -565,6 +558,13 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -601,22 +601,16 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-tweet-template-for-visual-sharing/"><u>[New] In 2024, The Ultimate Tweet Template for Visual Sharing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-accelerated-pathway-through-keying-fundamentals/"><u>[Updated] 2024 Approved Accelerated Pathway Through Keying Fundamentals</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-divided-footage-delight-top-cam-discussion-in-2024/"><u>[Updated] Divided Footage Delight Top Cam Discussion, In 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mastering-the-art-of-video-based-instruction-using-youtube/"><u>[Updated] In 2024, Mastering the Art of Video-Based Instruction Using YouTube</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-brief-but-impactful-music-shorts-on-youtube-unveiled/"><u>2024 Approved Brief but Impactful Music Shorts on YouTube Unveiled</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-and-easy-snapchat-image-manipulation-techniques/"><u>2024 Approved Quick and Easy Snapchat Image Manipulation Techniques</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/a-comprehensive-guide-on-converting-wlmp-format-to-mp4-for-seamless-use-and-sharing/"><u>A Comprehensive Guide on Converting WLMP Format to MP4 for Seamless Use & Sharing</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/all-about-the-2018-fifa-world-cup-itinerary-fixtures-timelines-scores-and-exciting-moments-recap/"><u>All About the 2018 FIFA World Cup Itinerary: Fixtures, Timelines, Scores & Exciting Moments Recap</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/effortless-image-extraction-a-user-friendly-guide-to-iphone-photo-download/"><u>Effortless Image Extraction: A User-Friendly Guide to iPhone Photo Download</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/how-to-overcome-iphone-softwares-update-issues-reconnecting-successfully-with-the-server/"><u>How to Overcome iPhone Softwares Update Issues: Reconnecting Successfully with the Server</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-poco-c50-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Poco C50 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/management-includes-diuretics-for-volume-control-treatment-of-underlying-conditions-like-hypertension-or-ischemic-heart-disease-and-lifestyle-modifications-117/"><u>Management Includes Diuretics for Volume Control, Treatment of Underlying Conditions Like Hypertension or Ischemic Heart Disease, and Lifestyle Modifications Such as Salt Restriction and Aerobic Exercise.</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/telechargement-gratuit-de-macx-dvd-ripper-pro-pour-windows-version-complete/"><u>Téléchargement Gratuit De MacX DVD Ripper Pro Pour Windows - Version Complète</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/top-rated-no-cost-apps-for-downloading-videos-from-facebook-on-ios-and-android-devices/"><u>Top Rated No-Cost Apps for Downloading Videos From Facebook on iOS and Android Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-unable-to-deliver-sms-top-10-solutions/"><u>Troubleshooting: IPhone Unable to Deliver SMS - Top 10 Solutions</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/ultimate-guide-compressing-and-optimizing-videos-for-stunning-instagram-posts/"><u>Ultimate Guide: Compressing and Optimizing Videos for Stunning Instagram Posts</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/warner-brothers-masterpieces-collection-a-timeless-journey-with-a-glimpse-into-the-latest-2016-lineup/"><u>Warner Brothers Masterpieces Collection - A Timeless Journey with a Glimpse Into the Latest 2016 Lineup</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-mastery-over-iphone-hdr-issues-with-4-best-practices-for-editors/"><u>[Advanced] Mastery Over iPhone HDR Issues with 4 Best Practices for Editors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-splitcams-journey-to-video-excellence-an-overview/"><u>[Updated] SplitCam's Journey to Video Excellence An Overview</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/capture-your-screen-like-a-pro-with-movavis-advanced-screen-recording-software/"><u>Capture Your Screen Like a Pro with Movavi's Advanced Screen Recording Software</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/convertir-videos-flv-directamente-en-linea-proceso-gratuito-y-facil-con-movavi/"><u>Convertir Videos FLV Directamente en Línea, Proceso Gratuito Y Fácil Con Movavi</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-to-save-what-you-see-on-your-pc-as-an-image/"><u>Easy Methods to Save What You See on Your PC as an Image</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/free-conversion-tool-transform-mxf-files-into-wav-format-with-movavi/"><u>Free Conversion Tool: Transform MXF Files Into WAV Format with Movavi</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-make-music-accessible-with-a-well-designed-youtube-playlist/"><u>In 2024, Make Music Accessible with a Well-Designed YouTube Playlist</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-grand-gaming-odyssey-our-list-of-best-action-adventures/"><u>In 2024, The Grand Gaming Odyssey Our List of Best Action-Adventures</u></a></li>
+<li><a href="https://win11.techidaily.com/monitoring-internet-speed-windows-bar-customization/"><u>Monitoring Internet Speed: Windows Bar Customization</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-10-sites-ideais-para-acompanhar-animacoes-online/"><u>Top 10 Sites Ideais Para Acompanhar Animações Online</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/vrije-online-omzetting-van-flac-naar-aac-met-movavi-onmisserbaar-en-efficient/"><u>Vrije Online Omzetting Van FLAC Naar AAC Met Movavi - Onmisserbaar en Efficiënt</u></a></li>
 </ul></div>
 

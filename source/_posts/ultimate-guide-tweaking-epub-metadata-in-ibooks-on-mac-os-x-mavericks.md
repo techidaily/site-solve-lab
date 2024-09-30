@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Tweaking ePub Metadata in iBooks on Mac OS X Mavericks"
-date: 2024-09-10T02:23:43.921Z
-updated: 2024-09-15T22:38:11.608Z
+date: 2024-09-27T19:59:21.578Z
+updated: 2024-09-30T16:53:08.205Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea338695faa58de9221c96a80.jpg
@@ -29,6 +29,13 @@ When the iBooks was only a child-column in iTunes, we can right click on an item
 
 ![edit-ebook-meta-data-itunes](http://www.epubor.com/images/edit-ebook-meta-data-itunes.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 But with iBooks for Mac in Mavericks, you only get this when right clicking on a book.
 
 ![ibooks-for-mac-options](http://www.epubor.com/images/ibooks-for-mac-options.png)
@@ -45,11 +52,25 @@ First we import the book into Calibre.
 
 ![ibooks without cover](http://www.epubor.com/images/ibooks-without-cover.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 From the image above we can see that the cover of the book _A DANCE WITH DRAGONS_ is missing, which is a pretty typical case where we need to edit the metadata to add cover.![edit-metadata-in-calibre](http://www.epubor.com/images/edit-metadata-in-calibre.png)
 
 Right click on the book title, choose "Edit metadata", then "Edit metadata individually".
 
 ![](http://www.epubor.com/images/edit-metadata-for-ibooks-for-mac.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this window we can customize almost all the important metadata. In this case I need to add a cover to the book, so I click "Browse" in "Change cover" area. If you want to make it simple, just directly click "Download cover", and Calibre will search the cover from internet and add it for you.
 
@@ -64,28 +85,15 @@ No matter that we are adding cover or modifying the names, **converting the book
 So the last step is to convert the book to EPUB, even this file is already an EPUB file.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Load the modified book into iBooks for Mac
 
 ![edit-metadata-in-ibooks-for-mac-mavericks](http://www.epubor.com/images/edit-metadata-in-ibooks-for-mac-mavericks.png)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Find the converted file in Calibre's library and drag it into iBooks for Mac. Now we can see the book displayed in iBooks for Mac with the gorgeous cover.
 
@@ -402,5 +410,23 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhance-video-storytelling-with-smart-chapter-insertion-techniques-on-youtube/"><u>[New] 2024 Approved Enhance Video Storytelling with Smart Chapter Insertion Techniques on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-excellence-in-flight-choosing-superior-drone-motor-technology/"><u>[Updated] 2024 Approved Excellence in Flight Choosing Superior Drone Motor Technology</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gradual-diminishment-of-sound-tips-from-logic-pro-experts/"><u>2024 Approved Gradual Diminishment of Sound Tips From Logic Pro Experts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-metaverse-comedy-crafting-top-tips-for-diy-memetic-mastery/"><u>2024 Approved Metaverse Comedy Crafting Top Tips for DIY Memetic Mastery</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/a-beginners-guide-to-swapping-picture-backdrops-in-just-6-steps-movavi/"><u>A Beginner’s Guide to Swapping Picture Backdrops in Just 6 Steps (Movavi)</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-12-hd-video-transcoding-apps-reviewed-for-pc-and-mac-users-movavi/"><u>Best 12 HD Video Transcoding Apps Reviewed for PC and Mac Users [Movavi]</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/compre-movavi-video-editor-compra-segura-a-100-descuentos-especiales-en-la-herramienta-de-edicion-multimedia-perfecta/"><u>Compre Movavi Video Editor - Compra Segura a 100% | Descuentos Especiales en La Herramienta De Edición Multimedia Perfecta</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/comprendi-cosa-sono-i-file-avi-e-come-sbloccarne-il-contenuto/"><u>Comprendi Cosa Sono I File AVI E Come Sbloccarne Il Contenuto</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/effortlessly-change-video-format-transform-mkv-files-into-avi-use-movavis-free-web-conversion-service/"><u>Effortlessly Change Video Format: Transform MKV Files Into AVI - Use Movavi's Free Web Conversion Service</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-infinix-hot-40i-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Infinix Hot 40i Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-honor-magic-vs-2-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Honor Magic Vs 2 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-dark-souls-iii-from-freezing-essential-troubleshooting-steps/"><u>Stop Dark Souls III From Freezing: Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-mondly-user-guide-for-optimal-experience/"><u>The Ultimate Mondly User Guide for Optimal Experience</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/transformer-facilement-un-fichier-m4a-en-mpeg-gratuitement-en-ligne-convertisseur-video-de-movavi/"><u>Transformer Facilement Un Fichier M4A en MPEG Gratuitement en Ligne - Convertisseur Vidéo De Movavi</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1726226197177-ram-mp3-movavi/"><u>오피스 시청자를 위한 제공 가급이 아닌 RAM MP3 파일 전환: Movavi</u></a></li>
+</ul></div>
 

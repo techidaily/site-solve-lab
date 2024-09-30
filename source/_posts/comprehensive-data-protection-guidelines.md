@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Data Protection Guidelines
-date: 2024-09-09T11:52:50.128Z
-updated: 2024-09-15T17:40:41.288Z
+date: 2024-09-23T19:39:17.735Z
+updated: 2024-09-30T16:14:05.507Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/66bf8dac2766c75d064d843a5ce5be7969161220b903776d59302114e001c3c9.jpg
@@ -37,6 +37,13 @@ Support Center
 
 Epubor Software is committed to protecting client's privacy. We will only collect your basic information for better CRM and after-sale service. We do not distribute or share your personal information with any individual or organization. Epubor will never sell your personal information in any situation.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Update: Epubor will be GDPR compliant by May 25th
 
 Epubor has updated its Privacy Policy and Terms of Use, effective May 25, 2018\. These changes were made primarily in preparation for the EU’s new data privacy law, the General Data Protection Regulation (GDPR). 
@@ -44,6 +51,13 @@ Epubor has updated its Privacy Policy and Terms of Use, effective May 25, 2018\.
 Our customers' right to privacy is a main priority for Epubor team and because of this, Epubor team reaffirms its commitment to safeguarding the personal data of our customers, subscribers, and anyone who visits our websites.
 
 If you have any questions or concerns about our use of your Personal Information, then [please open a ticket](https://share.hsforms.com/1XMDdDw%5FCReqsb5-qCwX6fgc1yk8).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What information do we collect? What do we use it for?
 
@@ -54,10 +68,10 @@ When you place an order on our website, you will be jumped to third-party online
 For the rest, we will collect your full name, email address, the product your purchased, and the country information. The information is used to complete the transaction and help us provide better support and services to you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How do the 3rd party payment websites protect customer's credit card information?
@@ -65,16 +79,10 @@ For the rest, we will collect your full name, email address, the product your pu
 Epubor uses secure server hosted by RegNow, 2checkout and Paypal, they encrypt all the customer's personal information before it is sent to us, your credit card information is only used for online transition.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2checkout and Paypal
@@ -139,5 +147,20 @@ Copyright © 2011-2024 www.epubor.com. All rights reserved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-scopesight-appraisal-review/"><u>[New] In 2024, ScopeSight Appraisal Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premium-5-web-based-video-recorders-for-2024/"><u>[New] Premium 5 Web-Based Video Recorders for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/complete-solutions-for-resolving-itunes-music-playback-issues/"><u>Complete Solutions for Resolving iTunes Music Playback Issues</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/direct-file-transformation-guide-how-to-change-mkv-videos-into-m4v-formats-on-macwindows-preserving-original-data/"><u>Direct File Transformation Guide: How to Change MKV Videos Into M4V Formats on Mac/Windows Preserving Original Data</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/exploring-quicktime-everything-you-need-to-know-about-the-media-player/"><u>Exploring QuickTime: Everything You Need to Know About the Media Player</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-enable-and-restore-camera-functionality-on-your-snap-device/"><u>How to Enable and Restore Camera Functionality on Your Snap Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-lava-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Lava Without Password?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-beats-audio-driver-issue-in-windows-1087-solved/"><u>HP Beats Audio Driver Issue in Windows 10/8/7 [Solved]</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/macx-dvd-dvd-rippper-prohdwindows/"><u>MacX DVD最安のコストパフォーマンスを実現! DVD Rippper Pro/HDビデオコンバータWindows版 - 限時無料割引特典付きセット</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fixes-for-msodll-not-found-issues-on-pcs-and-laptops/"><u>The Ultimate Fixes for 'mso.dll Not Found' Issues on PCs and Laptops</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ultimate-guide-to-choosing-a-high-quality-prores-video-converter-for-professional-editing/"><u>Ultimate Guide to Choosing a High-Quality ProRes Video Converter for Professional Editing</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ultimate-mac-video-transcoding-tutorial-how-to-effortlessly-convert-hd-files/"><u>Ultimate Mac Video Transcoding Tutorial: How to Effortlessly Convert HD Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-best-a-compact-guide-to-2024s-top-10-lens-selections/"><u>Unveiling the Best A Compact Guide to 2024'S Top 10 Lens Selections</u></a></li>
+</ul></div>
 

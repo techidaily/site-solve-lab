@@ -1,7 +1,7 @@
 ---
 title: Top 5 Strategies for Organizing Your Amazon Kindle Libraries
-date: 2024-09-14T05:10:56.896Z
-updated: 2024-09-16T06:40:15.190Z
+date: 2024-09-29T17:46:02.185Z
+updated: 2024-09-30T18:04:22.461Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/551b9b29030807808fecbd021cc6b8c9595b15c77a4f336ad0c59913e2c5001a.jpg
@@ -37,11 +37,31 @@ Go to your Amazon account and choose "**Content & Devices**". Then click "**All 
 
 ![creat new collections](http://www.epubor.com/images/uppic/Creat-new-collections.png)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2 Add your books to the newly created collection.
 
 Click on the button before the book title and choose " **Make changes**". Then a dialog box will pop up which allows you to select already existed collections or create a new collection. You can even select more than one collection to add to this book.
 
 ![add books to collections](http://www.epubor.com/images/uppic/add-books-to-collections.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When all these have been done, you just need to open your kindle device and choose " **Sync and Check for Items**" in the menu. Then all created collections will be displayed in the Cloud library.
 
@@ -51,9 +71,29 @@ When all these have been done, you just need to open your kindle device and choo
 
 ![](http://www.epubor.com/./6 Ways to Create and Manage Kindle Collections_files/faq.png) Frequently Asked Questions about this method
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Q: If I delete the collection, will the books added to this collection be deleted?
 
 A: The books in collections will not be deleted from your library. You just delete the collections, not your purchased kindle books.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Create and Manage Collections on Kindle Manually
 
@@ -67,6 +107,13 @@ Step 2 Put your books in the collection.
 
 ![make kindle collections](http://www.epubor.com/images/uppic/create-collections-on-kindle-paperwhite.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To navigate to a collection, you can add more items or remove from the menu.
 
 **Note:** If you have 500 books in your Kindle, it's a huge workload to organize these books in order one by one. And this method is also only applied to purchased books from Amazon Store.
@@ -76,13 +123,6 @@ To navigate to a collection, you can add more items or remove from the menu.
 ##### Q: Why do my books appear in "Documents from My items" and not in "Books from My items"?
 
 A: Docs are the ones that you send to your Kindle device by email, but not purchased directly from Amazon.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Using Kindle for PC/Mac app
 
@@ -106,22 +146,16 @@ Method 2 and 3 above can only be applied to newer kindle models. If you have a v
 
 ![](http://www.epubor.com/./6 Ways to Create and Manage Kindle Collections_files/faq.png) Frequently Asked Questions about This Method
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Q: How to transfer Kindle collections from Kindle for PC to iPad Kindle app?
 
 A: It's easier for us to make and manage my collections on pc. According to Amazon Customer Service, it doesn't support sending collections from computer to iPad. Maybe [Kindle Cloud Collections](http://amzn.to/1sEm5Sv)can help you manage kindle books on iPad (iOS app).
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Kindlian Kindle Collection Manager (For Windows Only)
 
@@ -151,19 +185,6 @@ When you disconnect your kindle with computer, tap "Settings"-->"Update Your Kin
 
 The Kindlian just offers a Windows version. But its good point is that it also works with non Amazon books. 
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 5\. Kindle Collections Plugins with Calibre
 
 I will demonstrate a proper way to manage your kindle books and group books together into unique collections.
@@ -192,13 +213,6 @@ Once you run the Collections Manager successfully, a pop up screen will show lik
 
 ![install collection manager](http://www.epubor.com/images/uppic/Install-Collections-Manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3 Install Calibre Plugin.
 
 In fact, if you just want to manage your kindle books on Paperwhite, there is no need to follow step 3.
@@ -210,6 +224,13 @@ Install Collections for Kindle/Kindle Keyboard
 Just go forward to "Preference"-->"Plugins"-->"Get new plugins". Locate "Kindle Collections" plugins and click "Install" button. Refer to this guide about how to[add plugin to calibre](https://tools.techidaily.com/epubor/products/) step by step.
 
 ![install collections for kindle](http://www.epubor.com/images/uppic/Install-Collections-for-Kindle1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Install Collections for Kindle Touch/Kindle Paperwhite 
 
@@ -228,10 +249,10 @@ Once you have created the custom column successfully, navigate to Kindle Collect
 ![import collections to calibre](http://www.epubor.com/images/uppic/import-collections-to-calibre.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Go forward to the Kindle Collections icon-->"_Edit Kindle collections manually_...". You will see a list of Collections and you can delete/add a collection to the list. And you can rename the collection. Once you have kept your collections in order, click "Save" button and save collections to your kindle paperwhite. Then it will prompt to restart the Kindle. Eject the Kindle from your computer and navigate to "Home" menu-->"Setting"-->"menu"-->"Restart". Finally, it will save the new collections to Kindle paperwhite.
@@ -717,5 +738,26 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-saga-scholars-society-premier-picks/"><u>[New] Saga Scholars Society - Premier Picks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-from-xml-to-srt-a-step-by-step-solution-approach/"><u>[Updated] 2024 Approved From XML to SRT A Step-by-Step Solution Approach</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-itel-a60-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Itel A60</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/astuces-handbrake-pour-la-correction-des-erreurs-de-titres-de-dvd-comment-faire/"><u>Astuces HandBrake Pour La Correction Des Erreurs De Titres De DVD - Comment Faire?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-fueled-optimize-your-website-with-advanced-tracking-tools/"><u>Cookiebot-Fueled: Optimize Your Website with Advanced Tracking Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/developing-optimal-canon-time-lapse-artistry/"><u>Developing Optimal Canon Time-Lapse Artistry</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/effortless-methods-for-securely-splitting-avatar-1-dvd-into-two-parts-for-convenient-playback-and-backup/"><u>Effortless Methods for Securely Splitting Avatar 1 DVD Into Two Parts for Convenient Playback and Backup</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/extensive-analysis-the-complete-gear-360-camera-experience-for-2024/"><u>Extensive Analysis The Complete Gear 360 Camera Experience for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-compendium-of-video-camera-classifications/"><u>In 2024, Compendium of Video Camera Classifications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-smooth-visual-journeys-master-fades-in-a-flash/"><u>In 2024, Smooth Visual Journeys Master Fades in a Flash</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/itunes-compatibility-fix-successfully-connecting-ipod-touch-to-windows-n-version-on-your-pc/"><u>ITunes Compatibility Fix: Successfully Connecting iPod Touch to Windows N Version on Your PC</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-vanguard-6-audio-file-segmentation-systems-for-2024/"><u>New Vanguard 6 Audio File Segmentation Systems for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/profi-unterstutzung-bei-der-verwendung-von-winx-dvd-ripper-und-videosoftwarenutzung-online-technischer-service-center/"><u>Profi-Unterstützung Bei Der Verwendung Von WinX DVD Ripper Und Videosoftwarenutzung Online – Technischer Service Center</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/step-by-step-tutorial-on-configuring-ideal-video-preferences-in-handbrake-for-your-android-tablet-viewing-experience/"><u>Step-by-Step Tutorial on Configuring Ideal Video Preferences in Handbrake for Your Android Tablet Viewing Experience</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/techniques-faciles-a-succes-pour-assembler-des-fichiers-video-mp4-tous-ensemble/"><u>Techniques Faciles À Succès Pour Assembler Des Fichiers Vidéo MP4 Tous Ensemble</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-rated-no-cost-dvd-writing-software-for-windows-1011-comprehensive-review-and-step-by-step-tutorial/"><u>Top Rated No-Cost DVD Writing Software for Windows 10/11 - Comprehensive Review & Step-by-Step Tutorial</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ultimate-guide-moving-music-files-from-ios-device-to-macos-effortlessly/"><u>Ultimate Guide: Moving Music Files From iOS Device to macOS Effortlessly</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1725289965419-winx-dvd-copy-pro-dvd/"><u>WinX DVD Copy Pro에서 원형 카드를 백업하고 이소스 파일을 만들기 위해 DVD 디지털화 방법</u></a></li>
+</ul></div>
 

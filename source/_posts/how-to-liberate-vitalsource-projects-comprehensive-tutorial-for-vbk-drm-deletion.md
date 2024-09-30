@@ -1,7 +1,7 @@
 ---
 title: "How to Liberate VitalSource Projects: Comprehensive Tutorial for VBK DRM Deletion"
-date: 2024-09-11T11:00:20.158Z
-updated: 2024-09-15T21:24:15.831Z
+date: 2024-09-28T19:34:30.221Z
+updated: 2024-09-30T18:03:37.024Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b667ceffd517edd2d97f1e6e4.png
@@ -46,6 +46,13 @@ _(Mac) /Users/Shared/Books/VitalSource Bookshelf/VitalBook Library_
 
 ![where to find downloaded vitalsource vbk files](https://www.epubor.com/images/uppic/vitalsource-vbk-path.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Tips:** If you can't find the paths, please open the VitalSource Bookshelf on your computer, in the library select one book and right-click on it, then choose "" (Reveal in Finder on Mac).
 
 ![vbk path](https://epubor.com/images/uppic/vbk-path.png)
@@ -61,6 +68,13 @@ If you asking me how to recognize out which vbk file is a PDF or which one is an
 For example here I want to bought this book for learning "Publication Manual of the American", after I visited to this product details page, I saw this highlight from the "eTextbook Features" as following image shows.
 
 ![VitalBook PDF format](https://www.epubor.com/images/uppic/vitalbook-pdf.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you can see the "Fixed Layout" from the "eTextbook Features" area, it says that the truly eBook format of that book is PDF, while if you see the "Reflowerbale" it says that it's an ePub format. Of course both of these 2 formats are saved as .vbk file after you syncing them via Bookshelf app.
 
@@ -90,6 +104,13 @@ As my own opinion, the final most important reason that urges me to use a vbk dr
 
 ![print limit of vitalsource textbook](https://www.epubor.com/images/uppic/print-limit-of-vitalsource-textbook.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Remove Vitalsource DRM with Python Script
 
 This tool is only for those readers who are familiar with Python and computers. If not, please skip this part.
@@ -116,6 +137,13 @@ Visit vitalsource official page, log in with your own account, select "My Booksh
 
 ![Vitalsource Book Number](https://www.epubor.com/images/uppic/vitalsource-book-number.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In this case the number 9781911531081 is my book number. 
 
 **Update:** From VitalSource Bookshelf version 7.6.1, we can also find the _VBID_ from book by clicking on "Details".
@@ -139,16 +167,10 @@ When I start the software, I'm requested to input the vitalsource account email 
 ![ebook-converter vitalsource converter pro introduction](https://www.epubor.com/images/uppic/use-ebook-converter-vitalsource-converter-pro.png)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 It's preparing to download the vitalsource vbk files to pdf. Then click on "Download" button, it will begin to download all pages and save them in an entire PDF or ePub. 
@@ -162,6 +184,13 @@ I just choose 2 books for testing, then I found the average speed of the convert
 Here I need to tips you that the demo version will add watermarks into all pages of your PDF books if the original text book is PDF format. If the chosen book is ePub format, after drm removing it will still be saved as ePub format but it will not show all the pages contents, the vendor cuts some pages out and add their own pages for advertising. 
 
 ![ebook-converter cut converted vitalsource pages out](https://www.epubor.com/images/uppic/bad-point-of-ebook-converter-vitalsource-drm-removal.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Remove VBK DRM with Epubor Vitalsource Downloader
 
@@ -185,6 +214,13 @@ Another thing I need to let you know that the free trial version of this softwar
 
 ![Epubor Vitalsource VBK DRM Removal](https://www.epubor.com/images/uppic/epbuor-vitalsource-vbk-drm-removal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 I choose the same 2 books to test, the converting speed of PDF format text book is 10-15 pages per minute (from the new version 1.0.5, the speed is improved much up to 30 pages per minute), and the ePub to PDF will be a little slowly that about 3-5 pages per minute. 
 
 Once the conversion finishes, a window will pop up which shows you the pdf file. 
@@ -197,20 +233,13 @@ Should let you know that the free trial version of this tool only helps download
 
 ![why you should choose epubor vital source drm removal](https://www.epubor.com/images/uppic/why-choose-epubor-vitalsource-downloader.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions when using Epubor VBK DRM Removal
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##### Q: I've tried several times but why I still can't log in to my vitalsource account
@@ -228,13 +257,6 @@ A: Some customers complained that they can't edit (search, copy, etc.) the texts
 A: As far as I know, there doesn't exist any any ebook converter capable of directly converting .vbk files to PDF buy keep the text characters. Wish epubor team (or others) could find out the solution soon.
 
 ![edit vitalsource pdf text book](https://www.epubor.com/images/uppic/edit-vitalsource-pdf.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion: Just choose one tool to achieve your goals
 
@@ -267,13 +289,6 @@ Download Epubor Vitalsource Downloader for free:
 Updated 2/18/2019: Epubor Vitalsource Downloader is not available for downloading any more for force majeure. 
 
 ![author](http://www.epubor.com/images/uppic/author-dan.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Angel Dan](http://www.epubor.com/mailto:epubor.muzhi1989@gmail.com) has covered software online marketing for more than 10 years. She joined Epubor since 2013, covering content writing, affiliate marketing, global brand expansion, video marketing, and business development.
 
@@ -722,5 +737,16 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-youtube-presence-with-audio/"><u>[New] Elevate Your Youtube Presence with Audio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-blueprint-for-captivating-instagram-unboxing-vids/"><u>[New] In 2024, The Blueprint for Captivating Instagram Unboxing Vids</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-effective-ways-to-save-your-ps4-games-for-2024/"><u>[Updated] Effective Ways to Save Your PS4 Games for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-finest-mouse-picks-for-your-macbook-or-imac/"><u>2024'S Finest Mouse Picks for Your Macbook or iMac</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-free-dvd-ripping-software-for-windows-11-convert-dvds-to-mp4-avi-and-wmv/"><u>Best Free DVD Ripping Software for Windows 11 - Convert DVDs to MP4, AVI & WMV</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/enjoy-free-online-watching-of-ncaa-tournament-march-madness-broadcast-without-subscription/"><u>Enjoy Free Online Watching of NCAA Tournament: March Madness Broadcast Without Subscription</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-melody-and-memes-adding-audio-to-instagrams-visual-medley/"><u>In 2024, Melody & Memes Adding Audio to Instagram's Visual Medley</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/windowsdvd-seo/"><u>Windows上でDVDへの動画・ファイルバックアップ方法: ベストSEOツールとチュートリアル</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1725284220973-winx-dvd-ripper/"><u>비디오 변환 소프트웨어 WinX DVD Ripper: 최신 기술로 원향이 있는 촬영 시작!</u></a></li>
+</ul></div>
 

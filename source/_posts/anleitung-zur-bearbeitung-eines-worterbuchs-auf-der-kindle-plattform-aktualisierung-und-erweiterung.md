@@ -1,7 +1,7 @@
 ---
 title: "Anleitung Zur Bearbeitung Eines Wörterbuchs Auf Der Kindle-Plattform: Aktualisierung Und Erweiterung"
-date: 2024-09-13T07:57:54.864Z
-updated: 2024-09-16T00:49:25.972Z
+date: 2024-09-29T19:50:21.696Z
+updated: 2024-09-30T17:43:35.242Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7bf85c351306cae77a65bd05.jpg
@@ -33,6 +33,13 @@ Jeder Kindle-Benutzer sollte ein USB-Kabel haben, das sich in der Verpackung bef
 
 ![plug kindle to computer](https://www.epubor.com/images/plug-kindle-to-computer.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3 Kopieren Sie die Wörterbuchdatei in den Ordner "dictionaries"
 
 ![copy dictionary to kindle folder](https://www.epubor.com/images/copy-dictionary-to-kindle-folder.png)
@@ -59,9 +66,23 @@ Da ich aktuell einen Kindle Paperwhite benutze, werde ich den Kindle Paperwhite 
 
 ![kindle dictionary screen](https://www.epubor.com/images/kindle-dictionary-screen.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Drücken Sie die "Dictionaries" -Option, und wir können das Standard-Kindle-Wörterbuch - "Oxford Dictionary of English" sehen.
 
 ![default Kindle dictionary](https://www.epubor.com/images/default-kindle-dic.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Durch Antippen können wir das primäre Wörterbuch ändern. Wie der Bildschirm unten zeigt, ist "Oxford Dictionary of English" standardmäßig ausgewählt und wir müssen zu "collins3" wechseln, das kürzlich von mir importiert wurde.
 
@@ -71,16 +92,16 @@ Zurück auf dem vorherigen Bildschirm können wir sehen, dass das Standardwörte
 
 ![change default dictionary](https://www.epubor.com/images/change-kindle-default-dictionary.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Jetzt überprüfen wir das Ergebnis.
 
 ![download kindle dictionary](https://www.epubor.com/images/download-kindle-dictionary.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ein fremdsprachiges Wörterbuch zum Kindle hinzufügen
 
@@ -90,16 +111,16 @@ Zuerst müssen wir eine Französisch-Englisch-Wörterbuchdatei herunterladen und
 
 ![foreign-language-dictionary-for-kindle](https://www.epubor.com/images/foreign-language-dictionary-for-kindle.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Dann öffne ich ein französisches Buch, tippe auf und halte ein Wort markiert, dessen Definition ich nicht kenne und sehe, was passiert.
 
 ![add foreign dictionary to kindle](https://www.epubor.com/images/add-foreign-dictionary-to-kindle.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Verwandte Lesungen
 
@@ -163,5 +184,19 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-curating-historical-wisdom-the-ultimate-student-friendly-channel-list-1-10/"><u>[New] In 2024, Curating Historical Wisdom The Ultimate Student-Friendly Channel List (#1-10)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exploring-advanced-strategies-for-sending-videos-in-discord/"><u>[Updated] Exploring Advanced Strategies for Sending Videos in Discord</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-video-creators-guide-to-igtv-and-youtube-finding-the-right-fit/"><u>[Updated] The Video Creator’s Guide to IGTV & YouTube Finding the Right Fit</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-professioneel-videobearbeitingspakket-movavi-kopen-zekerheid-en-efficientie/"><u>1. Professioneel Videobearbeitingspakket Movavi Kopen: Zekerheid en Efficiëntie</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-streamline-video-conversion-convert-trp-to-mp4-online-at-no-cost-movavi/"><u>1. Streamline Video Conversion: Convert TRP to MP4 Online at No Cost - Movavi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-intrigue-and-ingenuity-in-leading-escapade-centres/"><u>2024 Approved Intrigue and Ingenuity in Leading Escapade Centres</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-huawei-p60-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Huawei P60 FRP Bypass Instantly</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/comment-effacer-avec-succes-des-elements-de-photographies-a-laide-de-nouvelles-solutions-2024/"><u>Comment Effacer Avec Succès Des Éléments De Photographies À L'Aide De Nouvelles Solutions 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/convertir-archivos-de-formato-m4a-a-mpeg-online-sin-coste-guia-paso-a-paso-con-movavi/"><u>Convertir Archivos De Formato M4A a MPEG Online Sin Coste: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-c65-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, All You Need To Know About Mega Greninja For Apple iPhone 15 Plus | Dr.fone</u></a></li>
+</ul></div>
 
