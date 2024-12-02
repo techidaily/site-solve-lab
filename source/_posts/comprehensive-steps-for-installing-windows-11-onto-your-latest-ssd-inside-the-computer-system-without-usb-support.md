@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Steps for Installing Windows 11 Onto Your Latest SSD Inside the Computer System Without USB Support
-date: 2024-11-15T20:23:27.893Z
-updated: 2024-11-22T17:52:32.438Z
+date: 2024-12-01T01:32:47.913Z
+updated: 2024-12-01T21:26:04.061Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ac052320a70f53cd4defac365f581dfb457a1cc20abd20579ee272bb28f0f35e.jpg
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/ac052320a70f53cd4defac365f581dfb457a1cc20
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -57,7 +61,7 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
@@ -72,10 +76,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Create Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/create-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. The **Easy Setup** screen will appear.
 
 * You can click **OK** to accept the default settings or click a setting to modify it.
@@ -83,11 +83,11 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -140,10 +140,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -155,19 +151,23 @@ Select the corresponding backup methods if you want to backup system, partition 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 👉 **Notes:**
@@ -176,7 +176,7 @@ Select the corresponding backup methods if you want to backup system, partition 
 * If you want to [upgrade Windows 10 to Windows 11](https://tools.techidaily.com/ubackup/products/) without losing files, this software is very useful. It backs up everything you want, either in the system partition or entire disk, and you can use it to restore files or system as needed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Restore Disk & Files
@@ -198,14 +198,14 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 [![Clone](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/main-interface/clone.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -246,7 +246,7 @@ Was the provided information useful? Your vote is important to us!
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related Articles
@@ -278,7 +278,7 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -298,18 +298,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-drones-for-beginners-10-must-have-mini-choices/"><u>[New] 2024 Approved Drones for Beginners 10 Must-Have Mini Choices</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-role-of-motion-leveraging-fb-ads-for-outstanding-roi/"><u>[New] 2024 Approved The Role of Motion Leveraging FB Ads for Outstanding ROI</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/igital-deviation-expert-strategies-to-rotate-videos-on-youtube-for-2024/"><u>[New] Digital Deviation Expert Strategies to Rotate Videos on YouTube for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oppo-a1-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Oppo A1 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/conversion-gratuite-de-fichier-pcx-en-image-animee-gif-avec-movavi-tutoriel/"><u>Conversion Gratuite De Fichier PCX en Image Animée (GIF) Avec Movavi - Tutoriel</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/convert-mp4-file-to-mpg-format-for-free-with-online-converter-by-movavi/"><u>Convert MP4 File to MPG Format For Free with Online Converter by Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/render-blur-effect-on-digital-snaps-in-ps/"><u>Render Blur Effect on Digital Snaps in PS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-mastering-igtv-content-creation-for-2024/"><u>The Ultimate Guide to Mastering IGTV Content Creation for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-mxf-en-mp3-gratuitement-en-ligne-movavi/"><u>Toutes Les Étapes Pour Transformer Un Fichier MXF en MP3 Gratuitement en Ligne - Movavi</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/transform-mp4-files-into-gifs-for-free-with-movavis-web-based-tool/"><u>Transform MP4 Files Into GIFs for Free with Movavi's Web-Based Tool</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/trasforma-i-tuoi-file-arw-in-immagini-png-online-e-gratuite-con-movavi/"><u>Trasforma I Tuoi File ARW in Immagini PNG Online E Gratuite Con Movavi</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/trasforma-i-tuoi-file-ts-in-formato-flv-senza-costi-con-movavi-convertitore-gratuito-online/"><u>Trasforma I Tuoi File TS in Formato FLV Senza Costi Con Movavi - Convertitore Gratuito Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-is-it-time-to-upgrade-to-an-itop-equipped-system-in-2024/"><u>[New] Is It Time to Upgrade to an ITop-Equipped System, In 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-food-filmmakers-blueprint-techniques-and-tricks-for-2024/"><u>[New] The Food Filmmaker’s Blueprint Techniques and Tricks for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1725290142156-dvd/"><u>簡單方法：攜帶 DVD 保護消除及光碟備份</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/establish-contact-with-top-tier-tech-innovators-partner-with-digiarty-now/"><u>Establish Contact with Top-Tier Tech Innovators - Partner with Digiarty Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-8-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 8 Plus Apple ID and Apple Pay</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/no-more-flash-needed-guide-to-play-swf-games-in-windows-1011-post-adobe-era/"><u>No More Flash Needed: Guide to Play SWF Games in Windows 10/11 Post-Adobe Era</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/powerdvddvdblu-ray/"><u>PowerDVDで再生失敗する原因と解決法：DVD/Blu-Ray症状分析と修正方法</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-tactic-for-weaving-gopro-content-in-cohesive-virtual-spherical-films-for-2024/"><u>Proven Tactic for Weaving GoPro Content in Cohesive Virtual Spherical Films for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/samsung-blu-ray-troubleshooting-solve-the-not-working-issue-once-and-for-all/"><u>Samsung Blu-Ray Troubleshooting: Solve the 'Not Working' Issue Once & For All</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-gopro-cinematography-luts-15-best-for-2024/"><u>The Ultimate Guide to GoPro Cinematography LUTs (15 Best) for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-convertidor-hevch265-para-mac-comparativo-de-los-mas-modernos-y-eficientes-del-2023/"><u>Top Convertidor HEVC/H.265 Para Mac: Comparativo De Los Más Modernos Y Eficientes Del 2023</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ultra-fast-winx-platinum-dvd-ripping-software-convert-dvd-to-high-quality-mp4-in-5-minutes-official-version/"><u>Ultra-Fast WinX Platinum DVD Ripping Software: Convert DVD to High-Quality MP4 in 5 Minutes (Official Version)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-a-frozen-chromebook-discover-these-8-fixes/"><u>Unlocking a Frozen Chromebook - Discover These 8 Fixes!</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-s17e-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17e Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/winx-dvd-ripperwinxvideo-ai-top-media-extraction-software/"><u>WinX DVD Ripper與WinxVideo AI數位化解碼工具: 線上即時技術支援團隊服務中心 - Top Media Extraction Software</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/winx-mediatrans/"><u>WinX MediaTrans オーダーガイド - 価格、支払い方法、および正規購入手順</u></a></li>
 </ul></div>
 

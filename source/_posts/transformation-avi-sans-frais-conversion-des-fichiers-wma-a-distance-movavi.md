@@ -1,7 +1,7 @@
 ---
 title: "Transformation AVI Sans Frais : Conversion Des Fichiers WMA À Distance - Movavi"
-date: 2024-11-10T06:45:48.781Z
-updated: 2024-11-13T00:38:41.663Z
+date: 2024-11-28T21:41:38.147Z
+updated: 2024-12-01T18:07:43.508Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/a488fef564f5e308e5c3875f24f2cb9db2970eba8b2bf719cd3aff87104df8bb.jpg
@@ -45,6 +45,10 @@ Si vous avez besoin d'un enregistreur de jeu, essayez Gecata by Movavi.
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [![](https://cdn.staticont.net/pages/0023/55/8e3299ceec11a282886103c3bfcf9215af3372c3.webp)](https://tools.techidaily.com/movavi/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Édité par [Elinor Zucchet](https://tools.techidaily.com/movavi/products/)
 
@@ -156,6 +160,10 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -165,13 +173,6 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
@@ -236,10 +237,7 @@ Utiliser le mode de jeu Windows 10
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
@@ -253,13 +251,6 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -275,13 +266,6 @@ Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérabl
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réglez les paramètres de vos effets visuels
 
 Les interfaces utilisateur graphiques (IUG) de Windows 10 regorgent d'effets visuels fantaisistes. Néanmoins, ces jolis graphiques d'arrière-plan, dont la plupart sont activés par défaut, peuvent affecter la puissance de traitement disponible de votre PC lorsqu'un jeu est en cours d'exécution au premier plan. Ainsi, une façon d'optimiser Windows 10 pour les performances de jeu est de sacrifier certains, voire tous, ces paramètres.
@@ -293,6 +277,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -334,9 +322,17 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -351,13 +347,6 @@ Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -397,13 +386,6 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -437,27 +419,17 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
 
@@ -475,6 +447,10 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -511,9 +487,17 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -601,18 +585,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-premium-players-pick-of-terraria-extensions/"><u>[New] In 2024, Premium Player's Pick of Terraria Extensions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-uniting-viewers-facebook-live-on-the-big-screen/"><u>[New] In 2024, Uniting Viewers Facebook Live on the Big Screen</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-mirthful-selfies-step-by-step-for-the-cartoon-face-lens/"><u>[New] Mastering Mirthful Selfies Step-by-Step for the Cartoon Face Lens</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-profitability-with-innovative-fb-animation-techniques/"><u>[New] Unleashing Profitability with Innovative FB Animation Techniques</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/mac-mp4/"><u>「初心者フレンドリーなガイド：【高解像度】無料アプリでMac MP4動画を整理して圧縮」</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-top-8-free-online-havens-for-3d-text-psdfiles/"><u>2024 Approved Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/can-you-join-the-global-hunt-in-pokemon-go-check-availability-by-country-for-a-game-download-adventure/"><u>Can You Join the Global Hunt in Pokémon GO? Check Availability by Country for a Game Download Adventure.</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/comment-convertissez-vous-les-fichiers-video-volumineux-vob-proteges-et-non-proteges-gratuitement-en-format-mp4/"><u>Comment Convertissez-Vous Les Fichiers Vidéo Volumineux VOB, Protégés Et Non Protégés Gratuitement en Format MP4 ?</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/comprehensive-guide-on-using-winxdvd-software-effectively/"><u>Comprehensive Guide on Using WinXDVD Software Effectively</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/simple-steps-moving-big-videos-and-photos-from-iphone-to-computer-with-ios-15-and-win-11/"><u>Simple Steps: Moving Big Videos and Photos From iPhone to Computer with iOS 15 and Win 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-continuous-minecraft-crashes-with-a-simple-six-step-solution/"><u>Troubleshoot Continuous Minecraft Crashes with a Simple Six-Step Solution</u></a></li>
-<li><a href="https://extra-information.techidaily.com/turn-out-clearer-snaps-ranking-the-most-effective-online-editors/"><u>Turn Out Clearer Snaps Ranking the Most Effective Online Editors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-efficient-video-cutting-techniques-to-boost-your-content-for-2024/"><u>[New] Efficient Video Cutting Techniques to Boost Your Content for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-prime-flight-tech-ready-to-buy-for-2024/"><u>[Updated] Prime Flight Tech Ready to Buy for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-discover-the-aax-file-extension-understanding-its-purpose-and-uses/"><u>1. Discover the .AAX File Extension: Understanding Its Purpose and Uses</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-seamlessly-transform-ebooks-using-calibre-the-ultimate-guide/"><u>1. Seamlessly Transform eBooks Using Calibre: The Ultimate Guide</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-unlocking-the-secrets-of-digital-rights-management-drm/"><u>1. Unlocking the Secrets of Digital Rights Management (DRM)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-ae-text-preset-collection-the-best-of-both-worlds/"><u>2024 Approved AE Text Preset Collection The Best of Both Worlds</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-logo-magic-sprucing-up-your-podcasts-visual-appeal/"><u>2024 Approved Logo Magic Sprucing Up Your Podcast's Visual Appeal</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/access-15-free-digital-comics-collections-here/"><u>Access 15 Free Digital Comics Collections Here!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-the-art-of-story-crafting/"><u>ChatGPT and the Art of Story Crafting</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-startech-vga-driver-now-direct-usb-download-available/"><u>Get Your StarTech VGA Driver Now – Direct USB Download Available</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-13-pro-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 13 Pro to Avoid Privacy Leak | Stellar</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/hasten-stopping-windows-11-notifications/"><u>Hasten Stopping Windows 11 Notifications</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-note-12-proplus-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi Note 12 Pro+ 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/preserving-periscope-content-tips-from-the-pros/"><u>Preserving Periscope Content Tips From the Pros</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-5-strategies-for-organizing-your-amazon-kindle-libraries/"><u>Top 5 Strategies for Organizing Your Amazon Kindle Libraries</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/transforming-acsm-ebooks-into-compatible-kindle-mobi-format-step-by-step-guide/"><u>Transforming .ACSM eBooks Into Compatible Kindle MOBI Format Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/transition-tips-accessing-nook-digital-novels-on-your-kobo-reader/"><u>Transition Tips: Accessing Nook Digital Novels on Your Kobo Reader</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/unlock-your-content-freedom-expert-steps-for-drm-free-conversion-of-ebooks-across-various-formats/"><u>Unlock Your Content Freedom: Expert Steps for DRM-Free Conversion of eBooks Across Various Formats</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/unraveling-the-secrets-a-comprehensive-guide-to-bypassing-drm-protection-on-e-books/"><u>Unraveling the Secrets: A Comprehensive Guide to Bypassing DRM Protection on E-Books</u></a></li>
 </ul></div>
 
