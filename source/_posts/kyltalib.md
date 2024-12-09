@@ -1,7 +1,7 @@
 ---
 title: K线图形识别与交易信号生成——YL计算机解码Talib模式
-date: 2024-11-28T01:14:57.740Z
-updated: 2024-12-02T00:25:16.880Z
+date: 2024-12-06T16:28:00.109Z
+updated: 2024-12-09T16:20:29.630Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,19 +56,18 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-15-facebook-strategies-for-maximizing-online-selling-power/"><u>[New] 2024 Approved Top 15 Facebook Strategies for Maximizing Online Selling Power</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-essential-9-gif-recipes-for-capturing-windows-graphics-fun-for-2024/"><u>[New] Essential 9 GIF Recipes for Capturing Windows Graphics Fun for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-camguard-elite-mesh-patch/"><u>[New] In 2024, CamGuard Elite Mesh Patch</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-top-picks-explore-the-best-new-windows-10-apps-and-games/"><u>[New] Top Picks Explore the Best New Windows 10 Apps and Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-preserving-your-periscope-content-a-detailed-process/"><u>[Updated] Preserving Your Periscope Content A Detailed Process</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-becoming-a-master-of-instagram-auditory-aesthetics/"><u>2024 Approved Becoming a Master of Instagram Auditory Aesthetics</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-functionality-and-visual-impact-of-win11-taskbar-icons/"><u>Boosting Functionality & Visual Impact of Win11 Taskbar Icons</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/come-masterare-la-copia-dei-tuoi-film-preferiti-tutorial-dettagliato-su-come-copiare-un-dvd-con-winxdvd-su-windows-117/"><u>Come Masterare La Copia Dei Tuoi Film Preferiti: Tutorial Dettagliato Su Come Copiare Un DVD Con WinXDVD Su Windows 11/7</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/faciles-astuces-pour-extraire-et-sauvegardez-des-donnees-de-dvd-sur-pcs-windows-et-mac/"><u>Faciles Astuces Pour Extraire Et Sauvegardez Des Données De DVD Sur PCs Windows Et MAC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-how-to-locate-others-on-macos-safely-and-why-its-essential-digital-strategies-blog/"><u>Guide: How To Locate Others On macOS Safely and Why It's Essential | Digital Strategies Blog</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/leawo-dvddvd/"><u>Leawo DVDソフトウェアで対策なしに、最新DVDコピー手順レポート</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/lossless-mp4-video-rotation-techniques-for-90-180-or-270-degrees-without-quality-compromise/"><u>Lossless MP4 Video Rotation Techniques for 90, 180, or 270 Degrees Without Quality Compromise</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/step-by-step-guide-converting-your-mtsm2ts-files-for-use-in-windows-movie-maker/"><u>Step-by-Step Guide: Converting Your MTS/M2TS Files for Use in Windows Movie Maker</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/webmmp4/"><u>ウェブ上のWebMファイルをMP4に自由に変換しよう! 無料アプリと方法</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/cant-reach-scanner-advanced-configuration-expert-solutions-by-yl-software/"><u>Can't Reach Scanner Advanced Configuration? Expert Solutions by YL Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-the-chase-strategies-top-20-youtube-tips-for-growth/"><u>Cut-to-the-Chase Strategies Top 20 YouTube Tips for Growth</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/identifying-your-gpu-a-step-by-step-guide-to-finding-graphics-card-details-tech-insights/"><u>Identifying Your GPU: A Step-by-Step Guide to Finding Graphics Card Details - Tech Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-official-canon-pixma-mg3620-driver-for-your-windows-device/"><u>Install the Official Canon PIXMA MG3620 Driver for Your Windows Device</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/navigating-hardware-management-via-control-panel-expert-tips-from-yl-computing/"><u>Navigating Hardware Management via Control Panel - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/resolving-common-issues-with-your-malfunctioning-graphics-card-expert-tips-from-yl-computing/"><u>Resolving Common Issues with Your Malfunctioning Graphics Card: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-turbulence-of-youtube-playback-in-chrome/"><u>Taming the Turbulence of YouTube Playback in Chrome</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-strategies-for-efficiently-resolving-computer-hardware-problems-with-expert-advice-from-yl-computing/"><u>Top Strategies for Efficiently Resolving Computer Hardware Problems with Expert Advice From YL Computing</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/unraveling-the-process-a-step-by-step-guide-to-understanding-bitcoin-transactions-by-yl-computing/"><u>Unraveling the Process: A Step-by-Step Guide to Understanding Bitcoin Transactions - By YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/yl-software-explained-how-to-effortlessly-update-and-install-graphics-card-drivers/"><u>YL Software Explained: How to Effortlessly Update and Install Graphics Card Drivers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/2024-5/"><u>동영상 재생을 혁신하세요: 2024의 5가지 기본 재색 장치 간식</u></a></li>
 </ul></div>
 
