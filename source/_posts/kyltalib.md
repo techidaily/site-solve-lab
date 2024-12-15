@@ -1,7 +1,7 @@
 ---
 title: K线图形识别与交易信号生成——YL计算机解码Talib模式
-date: 2024-12-06T16:28:00.109Z
-updated: 2024-12-09T16:20:29.630Z
+date: 2024-12-09T17:10:10.666Z
+updated: 2024-12-15T17:37:33.157Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,18 +56,24 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-lab.techidaily.com/cant-reach-scanner-advanced-configuration-expert-solutions-by-yl-software/"><u>Can't Reach Scanner Advanced Configuration? Expert Solutions by YL Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-the-chase-strategies-top-20-youtube-tips-for-growth/"><u>Cut-to-the-Chase Strategies Top 20 YouTube Tips for Growth</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/identifying-your-gpu-a-step-by-step-guide-to-finding-graphics-card-details-tech-insights/"><u>Identifying Your GPU: A Step-by-Step Guide to Finding Graphics Card Details - Tech Insights</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-official-canon-pixma-mg3620-driver-for-your-windows-device/"><u>Install the Official Canon PIXMA MG3620 Driver for Your Windows Device</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/navigating-hardware-management-via-control-panel-expert-tips-from-yl-computing/"><u>Navigating Hardware Management via Control Panel - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/resolving-common-issues-with-your-malfunctioning-graphics-card-expert-tips-from-yl-computing/"><u>Resolving Common Issues with Your Malfunctioning Graphics Card: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-the-turbulence-of-youtube-playback-in-chrome/"><u>Taming the Turbulence of YouTube Playback in Chrome</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/top-strategies-for-efficiently-resolving-computer-hardware-problems-with-expert-advice-from-yl-computing/"><u>Top Strategies for Efficiently Resolving Computer Hardware Problems with Expert Advice From YL Computing</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/unraveling-the-process-a-step-by-step-guide-to-understanding-bitcoin-transactions-by-yl-computing/"><u>Unraveling the Process: A Step-by-Step Guide to Understanding Bitcoin Transactions - By YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/yl-software-explained-how-to-effortlessly-update-and-install-graphics-card-drivers/"><u>YL Software Explained: How to Effortlessly Update and Install Graphics Card Drivers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/2024-5/"><u>동영상 재생을 혁신하세요: 2024의 5가지 기본 재색 장치 간식</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-screen-recording-techniques-for-windows-8-users/"><u>[Updated] 2024 Approved Screen Recording Techniques for Windows 8 Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-crest-of-crafts-review-pinnacle-studio-evaluation/"><u>[Updated] Crest of Crafts Review Pinnacle Studio Evaluation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-360-degree-shoot-selecting-your-perfect-model/"><u>[Updated] Ultimate 360-Degree Shoot Selecting Your Perfect Model</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-accelerate-your-pc-expert-tips-for-boosting-windows-performance-guided-by-yl-computing/"><u>1. Accelerate Your PC: Expert Tips for Boosting Windows Performance - Guided by YL Computing</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-diagnosing-and-fixing-an-overheating-cpu-expert-tips-from-yl-computing/"><u>1. Diagnosing and Fixing an Overheating CPU: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-capturing-the-moment-mobile-phone-snapchat-recordings/"><u>2024 Approved Capturing the Moment Mobile Phone Snapchat Recordings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tailoring-soundtracks-for-impact-in-canva-videos/"><u>2024 Approved Tailoring Soundtracks for Impact in Canva Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-edgeplus-2023-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola Edge+ (2023) by Name | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/consequences-of-using-mismatched-ram-on-your-windows-pc-a-guide-by-yl-computing/"><u>Consequences of Using Mismatched RAM on Your Windows PC: A Guide by YL Computing</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/effective-techniques-to-keep-your-data-private-in-windows-tips-from-yl-software-experts/"><u>Effective Techniques to Keep Your Data Private in Windows - Tips From YL Software Experts</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/efficient-techniques-for-duplicating-files-on-your-pc-using-microsoft-windows-a-comprehensive-guide/"><u>Efficient Techniques for Duplicating Files on Your PC Using Microsoft Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/how-to-get-your-windows-system-files-back-a-guide-using-yl-computings-solutions-powered-by-yl-software/"><u>How to Get Your Windows System Files Back: A Guide Using YL Computing's Solutions, Powered by YL Software</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/how-to-protect-your-computer-from-malware-and-viruses-essential-measures-yl-computing/"><u>How to Protect Your Computer From Malware & Viruses: Essential Measures - YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/modify-your-text-files-with-ease-a-comprehensive-tutorial-by-yl-software/"><u>Modify Your Text Files with Ease: A Comprehensive Tutorial by YL Software</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/prevention-tips-for-maintaining-optimal-performance-insights-from-yl-software-experts/"><u>Prevention Tips for Maintaining Optimal Performance: Insights From YL Software Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-load-within-windows-driver-framework/"><u>Troubleshooting Elevated CPU Load Within Windows Driver Framework</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor X9b | Dr.fone</u></a></li>
 </ul></div>
 
