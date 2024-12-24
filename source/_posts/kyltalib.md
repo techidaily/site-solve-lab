@@ -1,7 +1,7 @@
 ---
 title: K线图形识别与交易信号生成——YL计算机解码Talib模式
-date: 2024-12-09T17:10:10.666Z
-updated: 2024-12-15T17:37:33.157Z
+date: 2024-12-18T17:30:31.901Z
+updated: 2024-12-24T17:26:13.155Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,19 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-screen-recording-techniques-for-windows-8-users/"><u>[Updated] 2024 Approved Screen Recording Techniques for Windows 8 Users</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-crest-of-crafts-review-pinnacle-studio-evaluation/"><u>[Updated] Crest of Crafts Review Pinnacle Studio Evaluation</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-360-degree-shoot-selecting-your-perfect-model/"><u>[Updated] Ultimate 360-Degree Shoot Selecting Your Perfect Model</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1-accelerate-your-pc-expert-tips-for-boosting-windows-performance-guided-by-yl-computing/"><u>1. Accelerate Your PC: Expert Tips for Boosting Windows Performance - Guided by YL Computing</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1-diagnosing-and-fixing-an-overheating-cpu-expert-tips-from-yl-computing/"><u>1. Diagnosing and Fixing an Overheating CPU: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-capturing-the-moment-mobile-phone-snapchat-recordings/"><u>2024 Approved Capturing the Moment Mobile Phone Snapchat Recordings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tailoring-soundtracks-for-impact-in-canva-videos/"><u>2024 Approved Tailoring Soundtracks for Impact in Canva Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-edgeplus-2023-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola Edge+ (2023) by Name | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/consequences-of-using-mismatched-ram-on-your-windows-pc-a-guide-by-yl-computing/"><u>Consequences of Using Mismatched RAM on Your Windows PC: A Guide by YL Computing</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/effective-techniques-to-keep-your-data-private-in-windows-tips-from-yl-software-experts/"><u>Effective Techniques to Keep Your Data Private in Windows - Tips From YL Software Experts</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/efficient-techniques-for-duplicating-files-on-your-pc-using-microsoft-windows-a-comprehensive-guide/"><u>Efficient Techniques for Duplicating Files on Your PC Using Microsoft Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/how-to-get-your-windows-system-files-back-a-guide-using-yl-computings-solutions-powered-by-yl-software/"><u>How to Get Your Windows System Files Back: A Guide Using YL Computing's Solutions, Powered by YL Software</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/how-to-protect-your-computer-from-malware-and-viruses-essential-measures-yl-computing/"><u>How to Protect Your Computer From Malware & Viruses: Essential Measures - YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/modify-your-text-files-with-ease-a-comprehensive-tutorial-by-yl-software/"><u>Modify Your Text Files with Ease: A Comprehensive Tutorial by YL Software</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/prevention-tips-for-maintaining-optimal-performance-insights-from-yl-software-experts/"><u>Prevention Tips for Maintaining Optimal Performance: Insights From YL Software Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-load-within-windows-driver-framework/"><u>Troubleshooting Elevated CPU Load Within Windows Driver Framework</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-backgrounds-for-live-streaming-2023/"><u>[New] 2024 Approved Best Backgrounds for Live Streaming 2023</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-shadow-play-with-iphone-pro-photography-tips/"><u>[New] In 2024, Shadow Play with iPhone Pro Photography Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-gain-traction-in-the-algorithm-the-insiders-manual-for-featured-channels/"><u>[Updated] Gain Traction in the Algorithm The Insider's Manual for Featured Channels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-compact-mp3-skype-archive-on-the-cheap/"><u>[Updated] In 2024, Compact MP3 Skype Archive on the Cheap</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-10-aerial-crews-masters-of-photo-and-film-for-2024/"><u>[Updated] Top 10 Aerial Crews Masters of Photo & Film for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-transforming-vr-skeletons-into-your-ideal-digital-persona/"><u>[Updated] Transforming VR Skeletons Into Your Ideal Digital Persona</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/can-you-add-this-hardware-to-my-computer-understanding-device-hardware-compatibility-on-windows-tips-from-yl-computing-solutions/"><u>Can You Add This Hardware to My Computer? Understanding Device-Hardware Compatibility on Windows – Tips From YL Computing Solutions</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/customizing-system-settings-in-yl-software-simple-changes-to-the-control-panel-for-enhanced-usage/"><u>Customizing System Settings in YL Software: Simple Changes to the Control Panel for Enhanced Usage</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/effective-strategies-for-reducing-memory-usage-from-background-processes-with-yl-software/"><u>Effective Strategies for Reducing Memory Usage From Background Processes with YL Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/engage-efficiently-strategies-for-surge-in-social-media-shares/"><u>Engage Efficiently Strategies for Surge in Social Media Shares</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/navigating-the-process-how-to-securely-sign-up-with-a-digital-asset-broker-tips-by-yl-computing-and-yl-software-experts/"><u>Navigating the Process: How to Securely Sign Up with a Digital Asset Broker – Tips by YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/overcoming-pc-printer-connectivity-problems-expert-solutions-from-yl-software-team/"><u>Overcoming PC-Printer Connectivity Problems: Expert Solutions From YL Software Team</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-oculus-quest-elite-straps-enhanced-comfort-with-battery-backup-and-durable-carrying-box-review/"><u>The Ultimate Guide to Oculus Quest ˈElite Straps: Enhanced Comfort with Battery Backup and Durable Carrying Box Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-2024-obs-playback-setups-the-best-configurations-by-movavi/"><u>Top 2024 OBS Playback Setups: The Best Configurations by Movavi</u></a></li>
 </ul></div>
 
