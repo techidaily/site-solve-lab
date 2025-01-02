@@ -1,7 +1,7 @@
 ---
 title: K线图形识别与交易信号生成——YL计算机解码Talib模式
-date: 2024-12-26T05:38:38.140Z
-updated: 2024-12-30T21:25:08.634Z
+date: 2024-12-25T20:02:58.989Z
+updated: 2025-01-01T17:15:30.009Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,20 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-lab.techidaily.com/druckenmiller-insights-embrace-cryptocurrency-now-for-future-gains-discover-how-at-yl-computing-and-yl-software/"><u>Druckenmiller Insights: Embrace Cryptocurrency Now for Future Gains - Discover How at YL Computing & YL Software</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/effective-techniques-for-locating-files-within-other-files-insights-from-yl-computing/"><u>Effective Techniques for Locating Files Within Other Files: Insights From YL Computing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-repair-keyboard-problems-in-pathfinder-wrath-of-the-righteous-edition/"><u>How to Repair Keyboard Problems in Pathfinder - Wrath of the Righteous Edition</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-8-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 8</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-your-pc-with-the-advanced-uninstallation-tool-revo-uninstaller-pro-version/"><u>Master Your PC with the Advanced Uninstallation Tool: Revo Uninstaller Pro Version 지</u></a></li>
-<li><a href="https://article-files.techidaily.com/metaverse-persona-design-a-beginners-compreraniary-guide/"><u>Metaverse Persona Design A Beginner's Compreraniary Guide</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/recognizing-the-signs-when-is-it-time-to-replace-your-pcs-power-supply-expert-insights-from-yl-computing/"><u>Recognizing the Signs: When Is It Time to Replace Your PC's Power Supply? - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-mp2-audio-to-mp3-quick-and-effectively/"><u>Step-by-Step Guide: Converting MP2 Audio to MP3 Quick and Effectively</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/step-by-step-guide-ensuring-your-printer-is-properly-connected-to-pc-tips-from-yl-software/"><u>Step-by-Step Guide: Ensuring Your Printer Is Properly Connected to PC - Tips From YL Software</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/step-by-step-guide-mastering-advanced-configuration-of-windows-hardware-components-tips-from-yl-computing-experts/"><u>Step-by-Step Guide: Mastering Advanced Configuration of Windows Hardware Components - Tips From YL Computing Experts</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/troubleshooting-hardware-issues-a-comprehensive-guide-by-yl-technology-experts/"><u>Troubleshooting Hardware Issues: A Comprehensive Guide by YL Technology Experts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-zte-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for ZTE Users</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/verifying-your-pcs-safety-with-windows-defender-a-step-by-step-guide-from-yl-computing/"><u>Verifying Your PC's Safety with Windows Defender - A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieve-harmony-import-audio-to-your-inshot-clips/"><u>[Updated] Achieve Harmony Import Audio to Your InShot Clips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unveil-the-art-of-intrigue-with-our-handpicked-tiktok-themes/"><u>[Updated] Unveil the Art of Intrigue with Our Handpicked TikTok Themes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-live-photography-to-continuous-visual-storytelling/"><u>2024 Approved Live Photography to Continuous Visual Storytelling</u></a></li>
+<li><a href="https://discover-community.techidaily.com/1726228043356-jpegbmp-movavi/"><u>免費線上更新：JPEG轉換成BMP - 利用Movavi的變體功能</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/a-comprehensive-guide-on-converting-wlmp-format-to-mp4-for-seamless-use-and-sharing/"><u>A Comprehensive Guide on Converting WLMP Format to MP4 for Seamless Use & Sharing</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/all-about-the-2018-fifa-world-cup-itinerary-fixtures-timelines-scores-and-exciting-moments-recap/"><u>All About the 2018 FIFA World Cup Itinerary: Fixtures, Timelines, Scores & Exciting Moments Recap</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/creating-stunning-qr-codes-with-artificial-intelligence-step-by-step-guide/"><u>Creating Stunning QR Codes with Artificial Intelligence: Step-by-Step Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-can-you-restrict-access-on-discord-through-parental-settings/"><u>How Can You Restrict Access on Discord Through Parental Settings?</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/how-to-overcome-iphone-softwares-update-issues-reconnecting-successfully-with-the-server/"><u>How to Overcome iPhone Softwares Update Issues: Reconnecting Successfully with the Server</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfecting-onestream-broadcasts-essential-strategies-explored/"><u>Perfecting OneStream Broadcasts Essential Strategies Explored</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-oppo-reno-10-pro-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Reno 10 Pro 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/revamp-your-ios-device-top-6-solutions-for-screen-record-failures/"><u>Revamp Your iOS Device: Top 6 Solutions for Screen Record Failures</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-rated-no-cost-apps-for-downloading-videos-from-facebook-on-ios-and-android-devices/"><u>Top Rated No-Cost Apps for Downloading Videos From Facebook on iOS and Android Devices</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/ultimate-guide-compressing-and-optimizing-videos-for-stunning-instagram-posts/"><u>Ultimate Guide: Compressing and Optimizing Videos for Stunning Instagram Posts</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/warner-brothers-masterpieces-collection-a-timeless-journey-with-a-glimpse-into-the-latest-2016-lineup/"><u>Warner Brothers Masterpieces Collection - A Timeless Journey with a Glimpse Into the Latest 2016 Lineup</u></a></li>
 </ul></div>
 
