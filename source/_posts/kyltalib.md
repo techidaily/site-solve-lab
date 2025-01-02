@@ -1,7 +1,7 @@
 ---
 title: K线图形识别与交易信号生成——YL计算机解码Talib模式
-date: 2024-12-18T17:30:31.901Z
-updated: 2024-12-24T17:26:13.155Z
+date: 2024-12-26T05:38:38.140Z
+updated: 2024-12-30T21:25:08.634Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,19 +56,20 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-best-backgrounds-for-live-streaming-2023/"><u>[New] 2024 Approved Best Backgrounds for Live Streaming 2023</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-shadow-play-with-iphone-pro-photography-tips/"><u>[New] In 2024, Shadow Play with iPhone Pro Photography Tips</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-gain-traction-in-the-algorithm-the-insiders-manual-for-featured-channels/"><u>[Updated] Gain Traction in the Algorithm The Insider's Manual for Featured Channels</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-compact-mp3-skype-archive-on-the-cheap/"><u>[Updated] In 2024, Compact MP3 Skype Archive on the Cheap</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-top-10-aerial-crews-masters-of-photo-and-film-for-2024/"><u>[Updated] Top 10 Aerial Crews Masters of Photo & Film for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-transforming-vr-skeletons-into-your-ideal-digital-persona/"><u>[Updated] Transforming VR Skeletons Into Your Ideal Digital Persona</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/can-you-add-this-hardware-to-my-computer-understanding-device-hardware-compatibility-on-windows-tips-from-yl-computing-solutions/"><u>Can You Add This Hardware to My Computer? Understanding Device-Hardware Compatibility on Windows – Tips From YL Computing Solutions</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/customizing-system-settings-in-yl-software-simple-changes-to-the-control-panel-for-enhanced-usage/"><u>Customizing System Settings in YL Software: Simple Changes to the Control Panel for Enhanced Usage</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/effective-strategies-for-reducing-memory-usage-from-background-processes-with-yl-software/"><u>Effective Strategies for Reducing Memory Usage From Background Processes with YL Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/engage-efficiently-strategies-for-surge-in-social-media-shares/"><u>Engage Efficiently Strategies for Surge in Social Media Shares</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/navigating-the-process-how-to-securely-sign-up-with-a-digital-asset-broker-tips-by-yl-computing-and-yl-software-experts/"><u>Navigating the Process: How to Securely Sign Up with a Digital Asset Broker – Tips by YL Computing & YL Software Experts</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/overcoming-pc-printer-connectivity-problems-expert-solutions-from-yl-software-team/"><u>Overcoming PC-Printer Connectivity Problems: Expert Solutions From YL Software Team</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-oculus-quest-elite-straps-enhanced-comfort-with-battery-backup-and-durable-carrying-box-review/"><u>The Ultimate Guide to Oculus Quest ˈElite Straps: Enhanced Comfort with Battery Backup and Durable Carrying Box Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-2024-obs-playback-setups-the-best-configurations-by-movavi/"><u>Top 2024 OBS Playback Setups: The Best Configurations by Movavi</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/druckenmiller-insights-embrace-cryptocurrency-now-for-future-gains-discover-how-at-yl-computing-and-yl-software/"><u>Druckenmiller Insights: Embrace Cryptocurrency Now for Future Gains - Discover How at YL Computing & YL Software</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/effective-techniques-for-locating-files-within-other-files-insights-from-yl-computing/"><u>Effective Techniques for Locating Files Within Other Files: Insights From YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-repair-keyboard-problems-in-pathfinder-wrath-of-the-righteous-edition/"><u>How to Repair Keyboard Problems in Pathfinder - Wrath of the Righteous Edition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-8-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 8</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-your-pc-with-the-advanced-uninstallation-tool-revo-uninstaller-pro-version/"><u>Master Your PC with the Advanced Uninstallation Tool: Revo Uninstaller Pro Version 지</u></a></li>
+<li><a href="https://article-files.techidaily.com/metaverse-persona-design-a-beginners-compreraniary-guide/"><u>Metaverse Persona Design A Beginner's Compreraniary Guide</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/recognizing-the-signs-when-is-it-time-to-replace-your-pcs-power-supply-expert-insights-from-yl-computing/"><u>Recognizing the Signs: When Is It Time to Replace Your PC's Power Supply? - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-converting-mp2-audio-to-mp3-quick-and-effectively/"><u>Step-by-Step Guide: Converting MP2 Audio to MP3 Quick and Effectively</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/step-by-step-guide-ensuring-your-printer-is-properly-connected-to-pc-tips-from-yl-software/"><u>Step-by-Step Guide: Ensuring Your Printer Is Properly Connected to PC - Tips From YL Software</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/step-by-step-guide-mastering-advanced-configuration-of-windows-hardware-components-tips-from-yl-computing-experts/"><u>Step-by-Step Guide: Mastering Advanced Configuration of Windows Hardware Components - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/troubleshooting-hardware-issues-a-comprehensive-guide-by-yl-technology-experts/"><u>Troubleshooting Hardware Issues: A Comprehensive Guide by YL Technology Experts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-zte-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for ZTE Users</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/verifying-your-pcs-safety-with-windows-defender-a-step-by-step-guide-from-yl-computing/"><u>Verifying Your PC's Safety with Windows Defender - A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Sony Xperia 5 V? | Dr.fone</u></a></li>
 </ul></div>
 
