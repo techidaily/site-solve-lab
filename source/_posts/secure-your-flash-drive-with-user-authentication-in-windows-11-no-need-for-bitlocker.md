@@ -1,7 +1,7 @@
 ---
 title: Secure Your Flash Drive with User Authentication in Windows 11 - No Need for BitLocker
-date: 2025-01-05T16:44:39.621Z
-updated: 2025-01-09T16:25:37.312Z
+date: 2025-01-11T20:46:10.399Z
+updated: 2025-01-14T16:07:09.663Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d7413beecc32c81165ba97ad08f.jpg
@@ -24,12 +24,16 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Sommario** 
@@ -53,10 +57,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -73,9 +73,17 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -94,6 +102,10 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -145,10 +157,6 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -174,10 +182,6 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -213,10 +217,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -224,6 +224,10 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -237,6 +241,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -247,10 +255,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -260,10 +264,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -280,24 +280,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-public-assessment-of-vllo-functionality/"><u>[New] 2024 Approved Public Assessment of VLLO Functionality</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-multimedia-iptv-networking/"><u>[New] Multimedia IPTV Networking</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/erfecting-your-channels-visual-impact-a-comprehensive-yt-banner-and-art-guide/"><u>[New] Perfecting Your Channel's Visual Impact A Comprehensive YT Banner & Art Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-unveiling-the-secret-how-to-disable-youtube-snippet-playback-for-2024/"><u>[New] Unveiling the Secret How to Disable YouTube Snippet Playback for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/best-practices-for-handling-suspicious-virus-warnings-in-the-digital-space-tips-by-yl-computing-software-experts/"><u>Best Practices for Handling Suspicious Virus Warnings in the Digital Space - Tips by YL Computing Software Experts</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/deciphering-persistent-bsod-mistakes-expert-analysis-by-yl-software-team/"><u>Deciphering Persistent 'BSOD' Mistakes: Expert Analysis by YL Software Team</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/exploring-the-boundaries-of-restoring-files-in-windows-environments-insights-by-yl-computing/"><u>Exploring the Boundaries of Restoring Files in Windows Environments - Insights by YL Computing</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/exploring-the-consequences-of-maos-great-leap-forward-on-chinese-society-an-in-depth-analysis-by-yl-computing/"><u>Exploring the Consequences of Mao's Great Leap Forward on Chinese Society: An In-Depth Analysis by YL Computing</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/how-can-you-personalize-your-windows-11-taskbar-settings-exploring-options-with-yl-computing/"><u>How Can You Personalize Your Windows 11 Taskbar Settings? - Exploring Options with YL Computing</u></a></li>
-<li><a href="https://discover-data.techidaily.com/how-to-restore-access-to-your-hidden-m2-drive-on-windows-11-with-these-easy-fixes/"><u>How to Restore Access to Your Hidden M.2 Drive on Windows 11 with These Easy Fixes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-spark-dialogue-with-personalized-and-creative-story-inquiries/"><u>In 2024, Spark Dialogue with Personalized and Creative Story Inquiries</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/investigating-response-caps-is-there-a-length-limit-for-chatgpt-answers/"><u>Investigating Response Caps: Is There a Length Limit for ChatGPT Answers?</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/master-the-art-of-zipping-and-unzipping-files-using-yl-softwares-advanced-tools/"><u>Master the Art of Zipping and Unzipping Files Using YL Software’s Advanced Tools</u></a></li>
-<li><a href="https://win-webster.techidaily.com/resolving-printer-warning-messages-swiftly-with-tips-from-yl-software-experts/"><u>Resolving Printer Warning Messages Swiftly with Tips From YL Software Experts</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/step-by-step-tutorial-for-diagnosing-and-restoring-corrupted-windows-operating-files-expert-advice-from-yl-computing-software/"><u>Step-by-Step Tutorial for Diagnosing and Restoring Corrupted Windows Operating Files – Expert Advice From YL Computing Software</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/together-we-learn-mondlys-language-course-drive/"><u>Together, We Learn: Mondly’s Language Course Drive</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-tips-to-eliminate-lag-in-rainbow-six-siege-enjoy-seamless-gaming/"><u>Top Tips to Eliminate Lag in Rainbow Six Siege – Enjoy Seamless Gaming!</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/understanding-your-obligations-a-guide-to-crypto-trading-taxes/"><u>Understanding Your Obligations: A Guide to Crypto-Trading Taxes</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/upgrading-your-gpu-is-it-possible-to-switch-to-a-superior-graphics-card-expert-insights-from-yl-computing/"><u>Upgrading Your GPU: Is It Possible To Switch To A Superior Graphics Card? - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-visionary-video-sculpting-stylish-deformed-words/"><u>[New] In 2024, Visionary Video Sculpting Stylish, Deformed Words</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-streamline-your-social-networking-joining-instagram-and-facebook-seamlessly/"><u>[New] Streamline Your Social Networking Joining Instagram & Facebook Seamlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-understanding-sns-hdr-pros-role-in-hdr-editing/"><u>[Updated] Understanding SNS HDR Pro's Role in HDR Editing</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-manycam-apps-top-choices-for-live-streaming-and-online-broadcasting/"><u>Best ManyCam Apps: Top Choices for Live Streaming and Online Broadcasting</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-manycam-browser-extensions-and-software-for-enhancing-your-ustream-presence/"><u>Best ManyCam Browser Extensions & Software for Enhancing Your uStream Presence</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-practices-with-manycam-enhancing-your-livestreams-and-virtually-upgrading-your-camera/"><u>Best Practices with ManyCam: Enhancing Your Livestreams and Virtually Upgrading Your Camera</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/enhance-your-livestreams-with-manycam-the-ultimate-ai-virtual-webcam-and-editor-tool/"><u>Enhance Your Livestreams with ManyCam - The Ultimate AI Virtual Webcam and Editor Tool</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/escort-max-360-unveiled-a-complete-review-of-the-cutting-edge-multi-functional-traffic-detector-with-gps-capabilities/"><u>Escort Max 360 Unveiled: A Complete Review of the Cutting-Edge Multi-Functional Traffic Detector With GPS Capabilities</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/expand-your-livestream-capabilities-with-manycams-superior-video-editing-and-virtual-camera-technology/"><u>Expand Your Livestream Capabilities with ManyCam's Superior Video Editing and Virtual Camera Technology</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/how-to-use-manycams-virtual-webcam-functionality-for-professional-quality-livestreams/"><u>How to Use ManyCam's Virtual Webcam Functionality for Professional-Quality Livestreams</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/live-streaming-made-easy-discover-manycam-professional-virtual-camera-and-recording-tools/"><u>Live Streaming Made Easy: Discover ManyCam - Professional Virtual Camera and Recording Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/navigate-must-try-world-building-games-for-2024/"><u>Navigate Must-Try World Building Games for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-huawei-nova-y91-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Huawei Nova Y91 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

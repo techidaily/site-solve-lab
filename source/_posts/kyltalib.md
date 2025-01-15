@@ -1,7 +1,7 @@
 ---
 title: K线图形识别与交易信号生成——YL计算机解码Talib模式
-date: 2025-01-07T16:50:05.745Z
-updated: 2025-01-09T16:46:23.255Z
+date: 2025-01-09T22:42:30.074Z
+updated: 2025-01-14T23:33:02.610Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,15 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-compile-of-top-15-gopro-stabilizers-and-mounts/"><u>[New] 2024 Approved Compile of Top 15 GoPro Stabilizers & Mounts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-all-inclusive-list-best-downloader-software-for-vimeo/"><u>[Updated] All-Inclusive List Best Downloader Software for Vimeo</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/yl-software-by-yl-computing/"><u>理解周朝历史的重要性与现代计算机编程之间联系 - YL Software by YL Computing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722977608203-fast-track-download-samsung-c460-printer-driver-get-it-now/"><u>Fast Track Download: Samsung C460 Printer Driver - Get It Now</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/how-to-get-your-windows-system-files-back-a-guide-using-yl-computings-solutions-powered-by-yl-software/"><u>How to Get Your Windows System Files Back: A Guide Using YL Computing's Solutions, Powered by YL Software</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/identifying-the-root-of-your-pcs-overheating-issues-expert-tips-from-yl-computing/"><u>Identifying the Root of Your PC's Overheating Issues: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-zte-blade-a73-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked ZTE Blade A73 5G Phone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-pivot-from-srt-to-professional-audio-standards-with-confidence/"><u>In 2024, Pivot From SRT to Professional Audio Standards with Confidence</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/livestream-lifelines-combatting-common-interruption-issues-on-fb/"><u>Livestream Lifelines Combatting Common Interruption Issues on FB</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/overcoming-hurdles-with-windows-programs-expert-guidance-by-yl-software-team/"><u>Overcoming Hurdles with Windows Programs: Expert Guidance by YL Software Team</u></a></li>
-<li><a href="https://video-capture.techidaily.com/playing-wav-audio-on-your-iphone-discover-the-top-2-techniques/"><u>Playing WAV Audio on Your iPhone: Discover the Top 2 Techniques</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/top-applications-to-accelerate-your-computer-performance-insights-by-yl-computing/"><u>Top Applications to Accelerate Your Computer Performance: Insights by YL Computing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transformer-votre-fichier-aif-en-wav-pour-rien-solutions-avancees-de-movavi/"><u>Transformer Votre Fichier AIF en WAV Pour Rien - Solutions Avancées De Movavi</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/yl-computing-presents-stunning-ford-mondeo-desktop-images-for-your-computer/"><u>YL Computing Presents: Stunning Ford Mondeo Desktop Images for Your Computer</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/yl-computings-expert-advice-on-removing-harmful-software-threats-virus-and-malware-eradication-strategies/"><u>YL Computing's Expert Advice on Removing Harmful Software Threats: Virus and Malware Eradication Strategies</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/yl-computings-exquisite-floral-downpour-series-with-hyuna-imagery-for-background-splendor/"><u>YL Computing's Exquisite Floral Downpour Series with Hyuna Imagery for Background Splendor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-insider-guide-to-gopro-wizardry/"><u>[New] Insider Guide to GoPro Wizardry</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-breathtaking-beijing-winter-games-of-2022/"><u>[Updated] 2024 Approved The Breathtaking Beijing Winter Games of 2022</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-angular-video-arrangement-on-android-devices-for-2024/"><u>[Updated] Mastering Angular Video Arrangement on Android Devices for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1726227377304-mp4ogg-movavi/"><u>「オンライン無料MP4からOggへの高速変換 - Movavi」</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mocmog-wma-movavi/"><u>網路自助 MOC/MOG 改成 WMA: Movavi 的高效變換器解決方案</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/conversion-de-fichiers-tga-vers-png-pour-gratis-un-outil-facile-dutilisation-sur-le-site-de-movavi/"><u>Conversion De Fichiers TGA Vers PNG Pour Gratis – Un Outil Facile D'utilisation Sur Le Site De Movavi</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/free-online-tool-convert-raw-images-to-png-format-with-movavi/"><u>Free Online Tool: Convert RAW Images to PNG Format with Movavi</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-clearing-up-false-facade-in-virtual-conversations-fb/"><u>In 2024, Clearing Up False Facade in Virtual Conversations FB</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-15-apps-de-apresentacoes-em-slide-para-android-e-ios-no-ano-de-2024/"><u>Top 15 Apps De Apresentações Em Slide Para Android E iOS No Ano De 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-lightest-and-sleek-laptops-of-2024-featured/"><u>Ultimate Guide to the Lightest & Sleek Laptops of 2024, Featured</u></a></li>
 </ul></div>
 
