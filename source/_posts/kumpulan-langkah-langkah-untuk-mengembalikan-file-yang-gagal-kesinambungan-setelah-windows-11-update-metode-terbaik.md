@@ -1,7 +1,7 @@
 ---
 title: "Kumpulan Langkah-Langkah Untuk Mengembalikan File Yang Gagal Kesinambungan Setelah Windows 11 Update: Metode Terbaik"
-date: 2025-01-10T18:24:30.503Z
-updated: 2025-01-15T07:05:52.651Z
+date: 2025-01-18T21:40:01.475Z
+updated: 2025-01-21T13:26:01.961Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685177239313164675ffec23d6.jpg
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
@@ -43,7 +47,7 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## User case: Windows 11 winload.efi missing, F8 button not working
@@ -82,6 +86,10 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Best free bootable media creation tool
 
 [**Download Freeware** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -90,29 +98,25 @@ Step 1\. Download this software and open it. Click **Tools** and then choose **C
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -132,10 +136,6 @@ Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
 To utilize the CHKDSK utility to address potential disk errors, follow these steps:
@@ -148,10 +148,6 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -159,6 +155,10 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -183,7 +183,7 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
@@ -238,6 +238,10 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 ## Conclusion
@@ -253,7 +257,7 @@ Was the provided information useful? Your vote is important to us!
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
@@ -280,10 +284,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -292,11 +292,11 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -313,20 +313,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-pushing-boundaries-with-high-speed-cinematography/"><u>[New] Pushing Boundaries with High-Speed Cinematography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-beginners-guide-to-video-equipment-selection-for-2024/"><u>[New] The Beginner's Guide to Video Equipment Selection for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-advanced-tips-for-removing-backgrounds-in-affinity-photo/"><u>[Updated] In 2024, Advanced Tips for Removing Backgrounds in Affinity Photo</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/convert-and-transfer-dvds-for-free-onto-ipads-premium-unmarked-video-viewing-experience-guaranteed/"><u>Convert & Transfer DVDs for Free Onto iPads: Premium, Unmarked Video Viewing Experience Guaranteed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-14-plus-how-to-unlock-a-disabled-iphone-14-plus-drfone-by-drfone-ios/"><u>Disabled iPhone 14 Plus How to Unlock a Disabled iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-study-aid-apps-the-top-6-selections-for-kids-and-their-families/"><u>Essential Study Aid Apps: The Top 6 Selections for Kids & Their Families</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/free-and-effective-macos-video-downloading-tools-ideal-alternatives-to-vdownloader-in-mojaveplus/"><u>Free and Effective macOS Video Downloading Tools: Ideal Alternatives to VDownloader in Mojave+</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/is-it-worth-the-switch-a-comprehensive-guide-on-iphones-15-pros-advantages-and-disadvantages/"><u>Is It Worth the Switch? A Comprehensive Guide on iPhones 15 Pro's Advantages & Disadvantages</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/leveraging-the-power-of-nvenc-encoding-within-handbrake-a-comprehensive-guide/"><u>Leveraging the Power of NVENC Encoding Within Handbrake: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lightweight-and-portable-unveiling-the-ultrabook-marvel-that-is-microsoft-surface-laptop-go/"><u>Lightweight & Portable: Unveiling the Ultrabook Marvel That Is Microsoft Surface Laptop Go</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/macxdvd-the-ultimate-dvd-authoring-tool-for-apple-users/"><u>MacXDVD: The Ultimate DVD Authoring Tool for Apple Users</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/top-video-codecs-optimal-choices-for-watching-modifying-and-sharing-content/"><u>Top Video Codecs: Optimal Choices for Watching, Modifying, and Sharing Content</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/troubleshooting-itunes-store-issues-tips-for-smooth-loading-and-access/"><u>Troubleshooting iTunes Store Issues: Tips for Smooth Loading and Access</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-freezing-issues-in-ascent-pc-version/"><u>Troubleshooting Steps for Persistent Freezing Issues in 'Ascent' PC Version</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-elevating-expectations-innovative-gift-box-experiences/"><u>[Updated] 2024 Approved Elevating Expectations Innovative Gift Box Experiences</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-understanding-the-dynamics-behind-youtube-video-rankings/"><u>[Updated] In 2024, Understanding the Dynamics Behind YouTube Video Rankings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-places-to-access-westeros-themed-phone-sounds/"><u>[Updated] Top Places to Access Westeros-Themed Phone Sounds</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1-overcome-region-restrictions-solutions-for-unblocking-your-dvd-players-content/"><u>1. Overcome Region Restrictions: Solutions for Unblocking Your DVD Player's Content</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-eradicating-youtube-content-in-a-device-friendly-way/"><u>2024 Approved Eradicating YouTube Content in a Device-Friendly Way</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-financial-forecast-the-price-of-filming-melodies-visually/"><u>2024 Approved Financial Forecast The Price of Filming Melodies Visually</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/5liw55wm6acc57sa6ieq55sx5lit5pah5zkm6iux5pah5a2x5bmv5lil6lyjic0g5ywn6lk75oplusq5l6b6zu75b2x44cb6zu76kaw5yqh5a2x5bmv/"><u>世界頂級自由中文和英文字幕下載 - 免費提供電影、電視劇字幕</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/easy-conversion-guide-transforming-mkv-files-into-avi-format-for-pcs-and-mac/"><u>Easy Conversion Guide: Transforming MKV Files Into AVI Format for PCs & Mac</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/folgepackender-leitfaden-zum-klonen-einer-urheberrechtsgeschutzten-dvd-mit-7-effektiven-techniken/"><u>Folgepackender Leitfaden Zum Klonen Einer Urheberrechtsgeschützten DVD Mit 7 Effektiven Techniken</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-15-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 15 Pro Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/handbrake-unterstutzung-fur-die-av1-video-kodierung-wie-gehts/"><u>HandBrake Unterstützung Für Die AV1 Video-Kodierung – Wie Geht's?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-x-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone X Apple ID on MacBook</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-poco-c55-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Poco C55 Device SIM</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-optimizing-your-content-performance-premier-video-rank-tools/"><u>In 2024, Optimizing Your Content' Performance Premier Video Rank Tools</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-5-methods-for-boosting-image-clarity/"><u>Top 5 Methods for Boosting Image Clarity</u></a></li>
 </ul></div>
 

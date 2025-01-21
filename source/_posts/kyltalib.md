@@ -1,7 +1,7 @@
 ---
 title: K线图形识别与交易信号生成——YL计算机解码Talib模式
-date: 2025-01-09T22:42:30.074Z
-updated: 2025-01-14T23:33:02.610Z
+date: 2025-01-20T03:31:08.036Z
+updated: 2025-01-21T05:01:09.563Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,15 +56,17 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-insider-guide-to-gopro-wizardry/"><u>[New] Insider Guide to GoPro Wizardry</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-breathtaking-beijing-winter-games-of-2022/"><u>[Updated] 2024 Approved The Breathtaking Beijing Winter Games of 2022</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mastering-angular-video-arrangement-on-android-devices-for-2024/"><u>[Updated] Mastering Angular Video Arrangement on Android Devices for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1726227377304-mp4ogg-movavi/"><u>「オンライン無料MP4からOggへの高速変換 - Movavi」</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mocmog-wma-movavi/"><u>網路自助 MOC/MOG 改成 WMA: Movavi 的高效變換器解決方案</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/conversion-de-fichiers-tga-vers-png-pour-gratis-un-outil-facile-dutilisation-sur-le-site-de-movavi/"><u>Conversion De Fichiers TGA Vers PNG Pour Gratis – Un Outil Facile D'utilisation Sur Le Site De Movavi</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/free-online-tool-convert-raw-images-to-png-format-with-movavi/"><u>Free Online Tool: Convert RAW Images to PNG Format with Movavi</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-clearing-up-false-facade-in-virtual-conversations-fb/"><u>In 2024, Clearing Up False Facade in Virtual Conversations FB</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/top-15-apps-de-apresentacoes-em-slide-para-android-e-ios-no-ano-de-2024/"><u>Top 15 Apps De Apresentações Em Slide Para Android E iOS No Ano De 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-lightest-and-sleek-laptops-of-2024-featured/"><u>Ultimate Guide to the Lightest & Sleek Laptops of 2024, Featured</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-microsoft-unveils-hololens-the-augmented-reality-evolution/"><u>[New] In 2024, Microsoft Unveils HoloLens The Augmented Reality Evolution</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-list-of-10-invisible-stories-watchers-for-2024/"><u>[Updated] List of 10 Invisible Stories Watchers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-ps4-screens-with-obs-full-steps/"><u>[Updated] Mastering PS4 Screens with OBS Full Steps</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/a-beginners-guide-to-swapping-picture-backdrops-in-just-6-steps-movavi/"><u>A Beginner’s Guide to Swapping Picture Backdrops in Just 6 Steps (Movavi)</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/best-12-hd-video-transcoding-apps-reviewed-for-pc-and-mac-users-movavi/"><u>Best 12 HD Video Transcoding Apps Reviewed for PC and Mac Users [Movavi]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-bargains-comparing-cloud-storage-prices-for-2024/"><u>Best Bargains Comparing Cloud Storage Prices for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/clear-screens-crystal-vision-tips-for-blurry-social-media-content/"><u>Clear Screens, Crystal Vision Tips for Blurry Social Media Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-aim-higher-boosting-views-and-reach-on-youtube/"><u>In 2024, Aim Higher Boosting Views and Reach on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategies-de-recherche-courantes-pour-les-questions-concernant-winxvideo-ia-et-solutions/"><u>Stratégies De Recherche Courantes Pour Les Questions Concernant Winxvideo IA Et Solutions</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/transformar-archivos-swf-a-formato-webm-de-forma-gratuita-online-con-movavi/"><u>Transformar Archivos SWF a Formato WEBM De Forma Gratuita Online Con Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-13-pro-max-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 13 Pro Max Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1726226197177-ram-mp3-movavi/"><u>오피스 시청자를 위한 제공 가급이 아닌 RAM MP3 파일 전환: Movavi</u></a></li>
 </ul></div>
 
