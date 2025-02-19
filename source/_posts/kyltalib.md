@@ -1,7 +1,7 @@
 ---
 title: K线图形识别与交易信号生成——YL计算机解码Talib模式
-date: 2025-02-01T23:52:17.083Z
-updated: 2025-02-09T05:30:31.297Z
+date: 2025-02-17T22:22:08.430Z
+updated: 2025-02-19T08:24:55.761Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,20 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-lab.techidaily.com/9/"><u>-9</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-key-concepts-of-interactive-storytelling/"><u>[New] 2024 Approved Key Concepts of Interactive Storytelling</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-quick-methods-for-saving-google-voice-communication/"><u>[New] In 2024, Quick Methods for Saving Google Voice Communication</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-satirists-web-workshop/"><u>[New] Satirist's Web Workshop</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unveiling-ipads-full-potential-a-timelapse-journey-begins-here/"><u>[Updated] 2024 Approved Unveiling iPad's Full Potential A Timelapse Journey Begins Here</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-pocket-playlist-portraits-actors-and-audio-art/"><u>[Updated] Pocket Playlist Portraits Actors & Audio Art</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/4-effective-methods-to-restore-unsaved-or-lost-text-documents/"><u>4 Effective Methods to Restore Unsaved or Lost Text Documents</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/como-restaurar-una-copia-de-seguridad-o-archivos-desde-un-disco-duro-externo-seagate/"><u>Cómo Restaurar Una Copia De Seguridad O Archivos Desde Un Disco Duro Externo Seagate</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/conquer-console-games-on-the-superior-display-asus-vg245h/"><u>Conquer Console Games On The Superior Display - Asus VG245H</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/disabling-heic-image-format-step-by-step-guide-for-iphone-models-from-11-to-se/"><u>Disabling HEIC Image Format: Step-by-Step Guide for iPhone Models From 11 to SE</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/easy-and-budget-friendly-guide-comprehensive-dropbox-file-sync-and-backup/"><u>Easy & Budget-Friendly Guide: Comprehensive Dropbox File Sync and Backup</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/master-data-protection-with-hitachi-drives-unlock-the-power-of-aomeis-premiere-cloning-software/"><u>Master Data Protection with Hitachi Drives: Unlock the Power of AOMEI's Premiere Cloning Software</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/mastering-aomei-tools-expert-tutorials-for-efficient-centralized-backup-management/"><u>Mastering AOMEI Tools: Expert Tutorials for Efficient, Centralized Backup Management</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/simple-techniques-for-retrieving-accidentally-erased-content-on-iphone-devices/"><u>Simple Techniques for Retrieving Accidentally Erased Content on iPhone Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-listicle-of-premier-app-store-games-by-genres/"><u>The Ultimate Listicle of Premier App Store Games by Genres</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/troubleshoot-when-chkdsk-fails-explore-four-effective-strategies-plus-an-insider-tip/"><u>Troubleshoot When CHKDSK Fails: Explore Four Effective Strategies Plus an Insider Tip</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/troubleshooting-steps-for-lost-ark-connection-issues-resolving-server-related-errors/"><u>Troubleshooting Steps for 'Lost Ark' Connection Issues: Resolving Server-Related Errors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-video-privacy-directly-share-yt-clips-using-googleid-for-2024/"><u>[Updated] Mastering Video Privacy Directly Share YT Clips Using GoogleID for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-3-top-picks-of-voice-capture-apps-for-your-ipad/"><u>2024 Approved 3 Top Picks of Voice Capture Apps for Your iPad</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-insider-knowledge-instagrams-music-copyright-landscape-decoded/"><u>2024 Approved Insider Knowledge Instagram's Music Copyright Landscape Decoded</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1221618-9781780996486-dear-poppyseed/"><u>Dear Poppyseed | Free Book</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/elevate-your-content-seo-mastery-starts-here-in-2024/"><u>Elevate Your Content SEO Mastery Starts Here, In 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/exquisite-bentley-continental-gt-hd-visuals-for-pcmobile-professional-images-by-yl-tech-solutions/"><u>Exquisite Bentley Continental GT HD Visuals for PC/Mobile - Professional Images by YL Tech Solutions</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/identifying-hardware-problems-on-your-pc-insights-from-yl-computing-experts/"><u>Identifying Hardware Problems on Your PC: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-start-saving-youtube-videos-as-screen-captures-today-completely-free/"><u>In 2024, Start Saving YouTube Videos as Screen Captures Today - Completely Free</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/resolving-the-blue-screen-of-death-issue-expert-guide-by-yl-computing/"><u>Resolving the 'Blue Screen of Death' Issue: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/solving-memory-errors-essential-steps-from-yl-computings-expert-solutions/"><u>Solving Memory Errors: Essential Steps From YL Computing's Expert Solutions</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/step-by-step-guide-adjusting-display-preferences-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Display Preferences via Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transform-your-linguistic-skills-through-dark-on-streaming/"><u>Transform Your Linguistic Skills Through Dark on Streaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-list-of-must-have-mac-applications-curated-by-cnet-reviewers/"><u>Ultimate List of Must-Have Mac Applications | Curated by CNet Reviewers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/user-guide-to-downloading-and-using-the-latest-snappy-driver-installer-v113/"><u>User Guide to Downloading and Using the Latest Snappy Driver Installer V1.13</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/yl-softwares-ultimate-tricks-for-streaming-songs-on-your-pc-with-windows-operating-system/"><u>YL Software's Ultimate Tricks for Streaming Songs on Your PC with Windows Operating System</u></a></li>
 </ul></div>
 
